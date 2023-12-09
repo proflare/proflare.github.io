@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Niyem Mawenbe Bawana / Site Title"
+title                    : "NDE-AI " #"Niyem Mawenbe Bawana / Site Title"
 title_separator          : "-"
 name                     : &name "Niyem Mawenbe Bawana"
 description              : &description "Ph.D. Candidate"
