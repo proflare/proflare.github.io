@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Electrical Engineering, Georgia Institute of Technology, 2026 (expected)
+* M.S. in Mechanical Engineering, New Mexico Institute of Mining and Technology, 2021
+* M.S. in Electrical Engineering, University of South Florida, 2019
+*  B.S. in Applied Physics, Universite de Lome, 2008
+  
+  
+  
 
 Work experience
 ======
