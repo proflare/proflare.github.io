@@ -83,7 +83,7 @@ author:
   name             : "Niyem Mawenbe Bawana"
   avatar           : "bio-photo.png"
   bio              : "Ph.D. Candidate" #"Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Atlanta" #"Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=LfLItSkAAAAJ" #"http://yourfullgooglescholarurl.com"
