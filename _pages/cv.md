@@ -14,7 +14,7 @@ Education
 * Ph.D. in Electrical Engineering, Georgia Institute of Technology, 2026 (expected)
 * M.S. in Mechanical Engineering, New Mexico Institute of Mining and Technology, 2021
 * M.S. in Electrical Engineering, University of South Florida, 2019
-*  B.S. in Applied Physics, Universite de Lome, 2008
+* B.S. in Applied Physics, Universite de Lome, 2008
   
   
   
