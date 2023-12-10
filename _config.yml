@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "NDE-AI " #"Niyem Mawenbe Bawana / Site Title"
+title                    : "Niyem Mawenbe Bawana"
 title_separator          : "-"
-name                     : &name "Niyem Mawenbe Bawana"
-description              : &description "Ph.D. Candidate"
+name                     : &name "Ph.D. Candidate"
+description              : &description "Georgia Tech"
 url                      :  https://niyem.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "niyem.github.io"    #"academicpages/academicpages.github.io"
