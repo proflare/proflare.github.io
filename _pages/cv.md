@@ -21,20 +21,29 @@ Education
 
 Research experience
 ======
-* Spring 2021: Research Assistant
+* Spring 2021: Research Assistant, Georgia Tech
   * [Power Systems Control and Automation Laboratory](https://pscal.ece.gatech.edu/)
   * Duties included: Dynamic state estimation of power system
   * [Supervisor:  A. P. Meliopoulos](https://ece.gatech.edu/directory/p-meliopoulos)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019-2021: Research Assistant, New Mexico Tech
+  * [Autonomous Flight and Aquatic Systems Laboratory](https://sites.google.com/nmt.edu/afasl/research?authuser=0)
+  * Duties included: Swarming drones positioning optimization
+  * Supervisor: Dr. Mostafa Hassanalian
  
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2019: Research Assistant, New Mexico Tech
+  * Laboratory for Smart Materials and Structures (LaSMaS)
+  * Duties included: Multifunctional Materials, Energy Harvesting
+  * Supervisor: Dr. Donghyeon Ryu
+ 
+* 2017--2019: Research Assistant, University of South Florida
+  * Duties included: Prediction of Thermal Failure of Induction Machines
+  * Supervisor: Professor Wilfrido Moreno
+ 
+* Jan 2016--Jun 2017: Research Assistant, University of Lome
+  * Solar Energy Laboratory of University of Lome
+  * Duties included: Characterization of solar water heater and local furnaces
+  * Supervisor: Professor Yendoube Lare
 
 * Jan--Dec 2015: Research Fellow
   * Stellenbosch University
@@ -43,12 +52,16 @@ Research experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Public Speaking
+* Communication
+* Analog Electronics
+* Troubleshooting
+* Electronic Circuit Analysis
+* Version Control
+* Data Visualization
+* SQL
+* Storytelling with Data
+* Programming: Python, Matlab, and C++
 
 Publications
 ======
