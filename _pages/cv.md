@@ -45,8 +45,8 @@ Research experience
   * Duties included: Characterization of solar water heater and local furnaces
   * Supervisor: Professor Yendoube Lare
 
-* Jan--Dec 2015: Research Fellow
-  * Stellenbosch University
+* Jan--Dec 2015: Research Fellow, Stellenbosch University
+  * [Solar Thermal Energy Research Group](https://sterg.sun.ac.za/)
   * Duties included: Modeling and simulation
   * Supervisor: Professor Franck Dinter
   
@@ -81,6 +81,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* [2017--2019: Fulbright Scholarship](https://fulbrightscholars.org/non-us-scholars)
+* [Pafroid Scholarship](https://www0.sun.ac.za/international/assets/files/Take%20Note%20Newsletter%20(06%20May%202014).pdf)
+* [Global Achievement Awards](https://www.usf.edu/world/about/news/2017-global-achievement-awards.aspx)
