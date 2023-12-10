@@ -1,11 +1,11 @@
 ---
-title: "ECE 3043: Electronic & Analog Electronic Circuits"
+title: "ECE 3043: Electronic and Analog Electronic Circuits"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Georgia Tech, school of Electrical and Computer Engineering"
 date: 2022-06-01
-location: "Atlanta, Georgia"
+location: "Atlanta Georgia"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
