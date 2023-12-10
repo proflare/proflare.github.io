@@ -2,9 +2,8 @@
 title: "Fall 2021: ECE 3550-Feedback Control of Dynamic Systems "
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
 venue: "Georgia Tech, school of Electrical and Computer Engineering"
-date: "2021"
+date: "2021-08-07"
 location: "Atlanta Georgia"
 ---
 
