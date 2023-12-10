@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Niyem Mawenbe Bawana"
+  name             : "Ph.D. Candidate"
   avatar           : "bio-photo.png"
-  bio              : "Ph.D. Candidate" #"Your biography for the left-hand sidebar"
+  bio              : "Georgia Tech" #"Your biography for the left-hand sidebar"
   location         : "Atlanta" #"Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
