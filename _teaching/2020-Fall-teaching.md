@@ -2,7 +2,7 @@
 title: "Fall 2020: MENG 210L-Sophomore Design and Measurement Laboratory "
 collection: teaching
 type: "Undergraduate course"
-venue: "New Mexico Tech, School of Mechanical Engineering"
+venue: "New Mexico Tech, Department of Mechanical Engineering"
 date: "2020-08-15"
 location: "Socorro New Mexico"
 ---
