@@ -8,7 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Niyem M. Bawana is a dedicated researcher and electrical engineering Ph.D. candidate with a rich background that spans continents and disciplines. Hailing from Togo, his academic journey has been characterized by a passion for exploring the intersection of cutting-edge technologies and real-world challenges.
+
+Niyem holds a bachelor's degree in applied physics, showcasing his early commitment to the principles of physics and their practical applications. He then pursued dual master's degrees in electrical and mechanical engineering, demonstrating a keen interest in interdisciplinary approaches to engineering challenges.
+
+His professional trajectory began with a noteworthy stint as a high school physics teacher, where he imparted knowledge and ignited curiosity in young minds from 2008 to 2014. This experience laid the foundation for his subsequent endeavors in research and academia.
+
+In 2015, Niyem embarked on an international journey, interning with the Department of Mechanical Engineering in South Africa. His quest for knowledge led him to the United States in 2017, where he further honed his skills and expertise.
+
+Niyem served as a research fellow at the University of South Florida from 2017 to 2019, focusing on preventing the overheating of induction machines—an early indication of his commitment to solving pressing engineering challenges. His time as a research and teaching assistant at New Mexico Tech (2019–2021) witnessed a shift towards optimizing swarming drones for energy efficiency, showcasing his adaptability and versatility in research.
+
+Currently pursuing a Ph.D. in electrical engineering at Georgia Tech under the guidance of Professor David Citrin, Niyem's research focus lies at the forefront of technology. Leveraging terahertz and artificial intelligence, he aims to contribute to the efficient nondestructive evaluation of carbon fiber composites—an endeavor with profound implications for various industries.
+
+Niyem M. Bawana's research interests span a wide array of domains, including pattern recognition, artificial intelligence, terahertz imaging, optical engineering, sensor technology for materials characterization, structural health monitoring, and sustainability. His multidisciplinary approach reflects a commitment to addressing complex issues through the synergy of diverse fields.
+
+As Niyem continues to make strides in the world of electrical engineering, he remains driven by a vision of sustainable innovation and the application of advanced technologies to solve real-world problems. His journey serves as an inspiring example of the impact that dedicated individuals can have on the ever-evolving landscape of engineering and technology.
 
 A data-driven personal website
 ======
