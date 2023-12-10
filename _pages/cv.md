@@ -21,7 +21,7 @@ Education
 
 Research experience
 ======
-* Spring 2021: Research Assistant, Georgia Tech
+* 2022-present: Research Assistant, Georgia Tech
   * [PHOTONICS AND TERAHERTZ GROUP](http://photonics.georgiatech-metz.fr/node/33)
   * Duties included: AI-Based Terahertz Tomography for NDE
   * [Supervisor:  David Citrin](https://ece.gatech.edu/directory/david-s-citrin)
