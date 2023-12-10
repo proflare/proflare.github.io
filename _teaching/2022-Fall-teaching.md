@@ -1,5 +1,5 @@
 ---
-title: "Spring 2022: ECE 3741-Experiments in Analog Electronics"
+title: "Fall 2022: ECE 3741-Experiments in Analog Electronics"
 collection: teaching
 type: "Undergraduate course"
 venue: "Georgia Tech, School of Electrical and Computer Engineering"
