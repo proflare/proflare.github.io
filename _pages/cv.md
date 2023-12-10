@@ -19,17 +19,27 @@ Education
   
   
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+* Spring 2021: Research Assistant
+  * [Power Systems Control and Automation Laboratory](https://pscal.ece.gatech.edu/)
+  * Duties included: Dynamic state estimation of power system
   * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+ 
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* Jan--Dec 2015: Research Fellow
+  * Stellenbosch University
+  * Duties included: Modeling and simulation
+  * Supervisor: Professor Franck Dinter
   
 Skills
 ======
