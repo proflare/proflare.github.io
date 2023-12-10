@@ -24,7 +24,7 @@ Research experience
 * Spring 2021: Research Assistant
   * [Power Systems Control and Automation Laboratory](https://pscal.ece.gatech.edu/)
   * Duties included: Dynamic state estimation of power system
-  * Supervisor: Professor Git
+  * [Supervisor:  A. P. Meliopoulos](https://ece.gatech.edu/directory/p-meliopoulos)
 
 * Fall 2015: Research Assistant
   * Github University
