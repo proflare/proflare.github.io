@@ -22,6 +22,12 @@ Education
 Research experience
 ======
 * Spring 2021: Research Assistant, Georgia Tech
+  * [PHOTONICS AND TERAHERTZ GROUP](http://photonics.georgiatech-metz.fr/node/33)
+  * Duties included: AI-Based Terahertz Tomography for NDE
+  * [Supervisor:  David Citrin](https://ece.gatech.edu/directory/david-s-citrin)
+ 
+    
+* Spring 2021: Research Assistant, Georgia Tech
   * [Power Systems Control and Automation Laboratory](https://pscal.ece.gatech.edu/)
   * Duties included: Dynamic state estimation of power system
   * [Supervisor:  A. P. Meliopoulos](https://ece.gatech.edu/directory/p-meliopoulos)
