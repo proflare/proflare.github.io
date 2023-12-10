@@ -1,5 +1,5 @@
 ---
-title: " ECE 3741: Experiments in Analog Electronics"
+title: "Spring 2022: ECE 3741-Experiments in Analog Electronics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
