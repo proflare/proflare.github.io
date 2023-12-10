@@ -1,5 +1,5 @@
 ---
-title: "ECE 3043: Electronic and Analog Electronic Circuits"
+title: "Summer 2022: ECE 3043-Electronic and Analog Electronic Circuits"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
