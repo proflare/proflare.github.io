@@ -8,21 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Niyem M. Bawana is a dedicated researcher and electrical engineering Ph.D. candidate with a rich background that spans continents and disciplines. Hailing from Togo, his academic journey has been characterized by a passion for exploring the intersection of cutting-edge technologies and real-world challenges.
+Niyem M. Bawana, a Togolese born scientist and engineer, is a Ph.D. candidate in electrical engineering, navigating the intersections of diverse disciplines. He earned a bachelor's degree in applied physics and dual master's degrees in electrical and mechanical engineering.
 
-Niyem holds a bachelor's degree in applied physics, showcasing his early commitment to the principles of physics and their practical applications. He then pursued dual master's degrees in electrical and mechanical engineering, demonstrating a keen interest in interdisciplinary approaches to engineering challenges.
+After a stint as a high school physics teacher, Niyem's international journey commenced with an internship in the Department of Mechanical Engineering at Stellenbosch University in South Africa. His move to the U.S. in 2017 marked a transformative period, leading to a research fellowship at the University of South Florida (2017–2019) and a role as a research and teaching assistant at New Mexico Tech (2019–2021).
 
-His professional trajectory began with a noteworthy stint as a high school physics teacher, where he imparted knowledge and ignited curiosity in young minds from 2008 to 2014. This experience laid the foundation for his subsequent endeavors in research and academia.
+Currently pursuing a Ph.D. at Georgia Tech under Professor David Citrin, Niyem focuses on leveraging terahertz and artificial intelligence for the nondestructive evaluation of carbon fiber composites. His research interests span pattern recognition, AI, terahertz imaging, optical engineering, sensor technology, structural health monitoring, and sustainability.
 
-In 2015, Niyem embarked on an international journey, interning with the Department of Mechanical Engineering in South Africa. His quest for knowledge led him to the United States in 2017, where he further honed his skills and expertise.
-
-Niyem served as a research fellow at the University of South Florida from 2017 to 2019, focusing on preventing the overheating of induction machines—an early indication of his commitment to solving pressing engineering challenges. His time as a research and teaching assistant at New Mexico Tech (2019–2021) witnessed a shift towards optimizing swarming drones for energy efficiency, showcasing his adaptability and versatility in research.
-
-Currently pursuing a Ph.D. in electrical engineering at Georgia Tech under the guidance of Professor David Citrin, Niyem's research focus lies at the forefront of technology. Leveraging terahertz and artificial intelligence, he aims to contribute to the efficient nondestructive evaluation of carbon fiber composites—an endeavor with profound implications for various industries.
-
-Niyem M. Bawana's research interests span a wide array of domains, including pattern recognition, artificial intelligence, terahertz imaging, optical engineering, sensor technology for materials characterization, structural health monitoring, and sustainability. His multidisciplinary approach reflects a commitment to addressing complex issues through the synergy of diverse fields.
-
-As Niyem continues to make strides in the world of electrical engineering, he remains driven by a vision of sustainable innovation and the application of advanced technologies to solve real-world problems. His journey serves as an inspiring example of the impact that dedicated individuals can have on the ever-evolving landscape of engineering and technology.
+Niyem's journey embodies adaptability and commitment to solving engineering challenges. His vision revolves around sustainable innovation and applying advanced technologies to address real-world issues.
 
 A data-driven personal website
 ======
