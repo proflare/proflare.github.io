@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 venue: "Georgia Tech, School of Electrical and Computer Engineering"
 date: "2021-08-07"
-location: "Atlanta Georgia"
+location: " Atlanta Georgia"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
