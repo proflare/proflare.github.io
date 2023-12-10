@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Georgia Tech, school of Electrical and Computer Engineering"
-date: 2021
+date: 2021-08-01
 term: "Fall 2022"
 location: "Atlanta, Georgia"
 ---
