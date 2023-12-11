@@ -2,7 +2,7 @@
 title: "Spring 2019: MENG 405L-Dynamics and Control Systems Laboratory "
 collection: teaching
 type: "Undergraduate course"
-venue: "New Mexico Tech, School of Mechanical Engineering"
+venue: "New Mexico Tech, Department of Mechanical Engineering"
 date: "2019-01-15"
 location: "Socorro New Mexico"
 ---
