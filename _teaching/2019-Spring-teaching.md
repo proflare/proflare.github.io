@@ -7,7 +7,7 @@ date: "2019-01-15"
 location: "Socorro New Mexico"
 ---
 
-I served as a teaqching assistant in this course.
+I served as a teaching assistant in this course.
 
 Responsibilities
 ======
