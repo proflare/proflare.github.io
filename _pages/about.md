@@ -17,7 +17,7 @@ Currently pursuing a Ph.D. at Georgia Tech under Professor David Citrin, Niyem f
 Niyem's journey embodies adaptability and commitment to solving engineering challenges. His vision revolves around sustainable innovation and applying advanced technologies to address real-world issues.
 
 
-Getting started 🎓
+Research Interests 🎓
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
