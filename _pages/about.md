@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+
+
+
 <div style="background-color: hsla(200, 40%, 95%, 1); padding: 20px; border-radius: 10px;">
 
   <h1 style="color: hsla(200, 80%, 40%, 1);">Niyem M. Bawana</h1>
@@ -22,6 +25,9 @@ redirect_from:
   <p style="color: hsla(200, 20%, 40%, 1);">Niyem's journey embodies adaptability and commitment to solving engineering challenges. His vision revolves around sustainable innovation and applying advanced technologies to address real-world issues.</p>
 
 </div>
+
+
+
 
 
 
@@ -45,6 +51,11 @@ redirect_from:
   </ul>
 
 </div>
+
+
+
+
+
 
 <div style="background-color: skyblue; padding: 20px; border-radius: 10px;">
 
