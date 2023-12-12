@@ -19,7 +19,7 @@ Niyem's journey embodies adaptability and commitment to solving engineering chal
 
 Research Interests 🎓
 ======
-   - <span style="color: green;">Terahertz Imaging</span>
+   - <span style="color: green;">[Terahertz NDE](https://en.wikipedia.org/wiki/Terahertz_nondestructive_evaluation)</span>
    - <span style="color: green;">Optical Engineering</span>
    - <span style="color: green;">Sensor Technology</span>
    - <span style="color: green;">Materials Characterization</span>
