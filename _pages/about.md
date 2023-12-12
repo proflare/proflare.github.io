@@ -19,7 +19,6 @@ Niyem's journey embodies adaptability and commitment to solving engineering chal
 
 Research Interests 🎓
 ======
-# Research Interests 🎓
    - <span style="color: green;">Terahertz Imaging</span>
    - <span style="color: green;">Optical Engineering</span>
    - <span style="color: green;">Sensor Technology</span>
