@@ -34,7 +34,6 @@ Research Interests 🎓
 
 
 
-```html
 <div style="background-color: #f5f5f5; padding: 20px; border-radius: 10px;">
 
   <h1 style="color: #333;">Future Career Plan 🌐</h1>
