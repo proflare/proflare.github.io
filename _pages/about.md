@@ -34,13 +34,13 @@ Research Interests 🎓
 
 
 
-<div style="background-color: #f5f5f5; padding: 20px; border-radius: 10px;">
+<div style="background-color: #f15f5f5; padding: 20px; border-radius: 10px;">
 
   <h1 style="color: #333;">Future Career Plan 🌐</h1>
 
   <h2>Short-Term Goal: Internship or Co-op</h2>
 
-  <p>As a current Ph.D. candidate in Electrical Engineering, my immediate aspiration is to secure an internship or co-op position in areas aligned with my research interests as listed above. This experience will not only complement my academic knowledge but also strengthen my practical skills...</p>
+  <p>As a current Ph.D. candidate in Electrical Engineering, my immediate aspiration is to secure an internship or co-op position in areas aligned with my research interests as listed above. This experience will not only complement my academic knowledge but also strengthen my practical skills.</p>
 
   <h2>Long-Term Aspirations</h2>
 
