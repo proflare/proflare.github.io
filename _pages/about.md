@@ -25,22 +25,26 @@ redirect_from:
 
 
 
-Research Interests 🎓
-======
-   - <span style="color: green;">[Terahertz NDE](https://en.wikipedia.org/wiki/Terahertz_nondestructive_evaluation)</span>
-   - <span style="color: green;">Optical Engineering</span>
-   - <span style="color: green;">Sensor Technology</span>
-   - <span style="color: green;">Materials Characterization</span>
-   - <span style="color: green;">Structural Health Monitoring</span>
-   - <span style="color: green;">Sustainability</span>
-   - <span style="color: green;">Data Analytics</span>
-   - <span style="color: green;">Data Science</span>
-   - <span style="color: green;">Computer Vision</span>
-   - <span style="color: green;">Machine Learning</span>
-   - <span style="color: green;">Pattern Recognition</span>
-   - <span style="color: green;">Artificial Intelligence</span>
+<div style="background-color: #f5f5f5; padding: 20px; border-radius: 10px;">
 
+  <h2 style="color: #333;">Research Interests 🎓</h2>
 
+  <ul>
+    <li><span style="color: hsl(120, 80%, 30%);"><a href="https://en.wikipedia.org/wiki/Terahertz_nondestructive_evaluation">Terahertz NDE</a></span></li>
+    <li><span style="color: hsl(120, 80%, 30%);">Optical Engineering</span></li>
+    <li><span style="color: hsl(120, 80%, 30%);">Sensor Technology</span></li>
+    <li><span style="color: hsl(120, 80%, 30%);">Materials Characterization</span></li>
+    <li><span style="color: hsl(120, 80%, 30%);">Structural Health Monitoring</span></li>
+    <li><span style="color: hsl(120, 80%, 30%);">Sustainability</span></li>
+    <li><span style="color: hsl(120, 80%, 30%);">Data Analytics</span></li>
+    <li><span style="color: hsl(120, 80%, 30%);">Data Science</span></li>
+    <li><span style="color: hsl(120, 80%, 30%);">Computer Vision</span></li>
+    <li><span style="color: hsl(120, 80%, 30%);">Machine Learning</span></li>
+    <li><span style="color: hsl(120, 80%, 30%);">Pattern Recognition</span></li>
+    <li><span style="color: hsl(120, 80%, 30%);">Artificial Intelligence</span></li>
+  </ul>
+
+</div>
 
 <div style="background-color: skyblue; padding: 20px; border-radius: 10px;">
 
