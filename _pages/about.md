@@ -19,15 +19,17 @@ Niyem's journey embodies adaptability and commitment to solving engineering chal
 
 Research Interests 🎓
 ======
-## Terahertz Imaging 
-Optical Engineering
-Sensor Technology
-Materials Characterization
-Structural Health Monitoring
-Sustainability
-Data Analytics 
-Data Science 
-Computer Vision
-Machine Learning 
-Pattern Recognition
-Artificial Intelligence
+# Research Interests 🎓
+   - <span style="color: green;">Terahertz Imaging</span>
+   - <span style="color: green;">Optical Engineering</span>
+   - <span style="color: green;">Sensor Technology</span>
+   - <span style="color: green;">Materials Characterization</span>
+   - <span style="color: green;">Structural Health Monitoring</span>
+   - <span style="color: green;">Sustainability</span>
+   - <span style="color: green;">Data Analytics</span>
+   - <span style="color: green;">Data Science</span>
+   - <span style="color: green;">Computer Vision</span>
+   - <span style="color: green;">Machine Learning</span>
+   - <span style="color: green;">Pattern Recognition</span>
+   - <span style="color: green;">Artificial Intelligence</span>
+
