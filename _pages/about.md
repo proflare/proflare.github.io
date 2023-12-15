@@ -38,13 +38,13 @@ redirect_from:
     <li><span style="color: hsl(120, 80%, 30%);">Sensor Technology</span></li>
     <li><span style="color: hsl(120, 80%, 30%);">Materials Characterization</span></li>
     <li><span style="color: hsl(120, 80%, 30%);">Structural Health Monitoring</span></li>
-    <li><span style="color: hsl(120, 80%, 30%);">Sustainability</span></li>
+     <li><span style="color: hsl(120, 80%, 30%);">Artificial Intelligence</span></li>
     <li><span style="color: hsl(120, 80%, 30%);">Data Analytics</span></li>
     <li><span style="color: hsl(120, 80%, 30%);">Data Science</span></li>
     <li><span style="color: hsl(120, 80%, 30%);">Computer Vision</span></li>
     <li><span style="color: hsl(120, 80%, 30%);">Machine Learning</span></li>
     <li><span style="color: hsl(120, 80%, 30%);">Pattern Recognition</span></li>
-    <li><span style="color: hsl(120, 80%, 30%);">Artificial Intelligence</span></li>
+    <li><span style="color: hsl(120, 80%, 30%);">Sustainability</span></li>
   </ul>
 
 </div>
@@ -60,13 +60,13 @@ redirect_from:
 
   <h2>Short-Term Goal: Internship or Co-op</h2>
 
-  <p>Niyem's immediate aspiration is to secure an internship or co-op position in areas aligned with my research interests as listed above. This experience will not only complement his academic knowledge but also strengthen his practical skills.</p>
+  <p>Niyem's immediate aspiration is to secure an internship or co-op position in areas aligned with his research interests as listed above. This experience will not only complement his academic knowledge but also strengthen his practical skills.</p>
 
   <h2>Long-Term Aspirations</h2>
 
   <h3>Industry or Academic Path</h3>
 
-  <p>Upon graduating with my Ph.D., Niyem is open to both industry and academic opportunities.</p>
+  <p>Upon graduating with his Ph.D., Niyem is open to both industry and academic opportunities.</p>
 
   <h4>Industry Path</h4>
 
@@ -78,7 +78,7 @@ redirect_from:
 
   <ul>
     <li>Establishing a research laboratory focused on advancing nondestructive evaluation using terahertz techniques and artificial intelligence.</li>
-    <li>Building collaborations with companies and national laboratories to enhance the practical impact of research findings.</li>
+    <li>Building collaborations with companies and national laboratories to enhance the practical impact of his research findings.</li>
   </ul>
 
 </div>
