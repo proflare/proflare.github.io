@@ -15,7 +15,7 @@ redirect_from:
 
   <h1 style="color: hsla(200, 80%, 40%, 1);">Niyem M. Bawana</h1>
 
-  <p style="color: hsla(200, 20%, 40%, 1);">Niyem received the B.S. in applied physics from the Universit\'e de Lom\'e and dual M.S. degrees in electrical and mechanical engineering from the University of South Florida and the New Mexico Institute of Mining and Technology respectively in 2008, 2019, and 2021.</p>
+  <p style="color: hsla(200, 20%, 40%, 1);">Niyem received the B.S. in applied physics from the Université de Lomé and two M.S. degrees in electrical and mechanical engineering from the University of South Florida and the New Mexico Institute of Mining and Technology respectively in 2008, 2019, and 2021.</p>
 
   <p style="color: hsla(200, 20%, 40%, 1);">After a stint as a high school physics teacher, Niyem interned at the Department of Mechanical Engineering at Stellenbosch University in South Africa where he worked on the modeling and simulation of thermal energy systems.</p>
 
