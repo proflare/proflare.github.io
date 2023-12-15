@@ -14,15 +14,12 @@ redirect_from:
 <div style="background-color: hsla(200, 40%, 95%, 1); padding: 20px; border-radius: 10px;">
 
   <h1 style="color: hsla(200, 80%, 40%, 1);">Niyem M. Bawana</h1>
-  <p style="color: hsla(200, 20%, 40%, 1);">A Togolese born scientist and engineer, Ph.D. candidate in electrical engineering, navigating the intersections of diverse disciplines.</p>
 
-  <p style="color: hsla(200, 20%, 40%, 1);">Niyem earned a bachelor's degree in applied physics and dual master's degrees in electrical and mechanical engineering.</p>
+  <p style="color: hsla(200, 20%, 40%, 1);">Niyem received the B.S. in applied physics from the Universit\'e de Lom\'e and dual M.S. degrees in electrical and mechanical engineering from the University of South Florida and the New Mexico Institute of Mining and Technology respectively in 2008, 2019, and 2021.</p>
 
-  <p style="color: hsla(200, 20%, 40%, 1);">After a stint as a high school physics teacher, Niyem's international journey commenced with an internship in the Department of Mechanical Engineering at Stellenbosch University in South Africa. His move to the U.S. in 2017 marked a transformative period, leading to a research fellowship at the University of South Florida (2017–2019) and a role as a research and teaching assistant at New Mexico Tech (2019–2021).</p>
+  <p style="color: hsla(200, 20%, 40%, 1);">After a stint as a high school physics teacher, Niyem interned at the Department of Mechanical Engineering at Stellenbosch University in South Africa where he worked on the modeling and simulation of thermal energy systems.</p>
 
-  <p style="color: hsla(200, 20%, 40%, 1);">Currently pursuing a Ph.D. at Georgia Tech under Professor David Citrin, Niyem focuses on leveraging terahertz and artificial intelligence for the nondestructive evaluation of carbon fiber composites.</p>
-
-  <p style="color: hsla(200, 20%, 40%, 1);">Niyem's journey embodies adaptability and commitment to solving engineering challenges. His vision revolves around sustainable innovation and applying advanced technologies to address real-world issues.</p>
+  <p style="color: hsla(200, 20%, 40%, 1);">Niyem is currently a Ph.D. candidate in the school of electrical and computer engineering at Georgia Institute of Technology under Professor David Citrin where his research focuses on leveraging terahertz and artificial intelligence for the nondestructive evaluation of carbon fiber composites.</p>
 
 </div>
 
