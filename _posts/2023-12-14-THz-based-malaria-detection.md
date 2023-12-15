@@ -2,12 +2,14 @@
 
 **Date:** 2023-12-14
 
-**Permalink:** /posts/2012/08/blog-post-1/
+**Permalink:** /posts/2023/12/THz-based-malaria-detection/
 
 **Tags:**
-- cool posts
-- category1
-- category2
+- Malaria
+- Terahertz Radiation
+- Medical Technology
+- Disease Diagnosis
+- Public Health
 
 ## Facts about Malaria
 
