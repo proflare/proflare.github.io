@@ -1,6 +1,6 @@
 ---
 title: "ECE 3741-Experiments in Analog Electronics"
-excerpt: "Helping students to succeed their laboratory activities <br/><img src='/images/1.jpg' width='200' height='250'><img src='/images/2.jpg' width='200' height='150'><img src='/images/3.jpg' width='200' height='150'><img src='/images/4.jpg' width='200' height='150'>"
+excerpt: "Helping students to succeed their laboratory activities <br/><img src='/images/1.jpg' width='200' height='100'><img src='/images/2.jpg' width='200' height='150'><img src='/images/3.jpg' width='200' height='150'><img src='/images/4.jpg' width='200' height='150'>"
 collection: portfolio
 ---
 
