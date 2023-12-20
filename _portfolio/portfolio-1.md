@@ -1,6 +1,6 @@
 ---
 title: "Niyem posing at ECE"
-excerpt: "Steve W. Chaddick School of Electrical and Computer Engineering<br/><img src='/images/GT-ECE.jpg'>"
+excerpt: "Steve W. Chaddick School of Electrical and Computer Engineering<br/><img src='/images/GT-ECE.jpg' width='300' height='200'>"
 collection: portfolio
 ---
 
