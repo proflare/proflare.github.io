@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Research Directions
+permalink: /Research Directions/
 ---
 
 # Research Directions
