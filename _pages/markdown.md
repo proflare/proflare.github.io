@@ -1,13 +1,12 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Research Directions"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-# Research Directions
 
 ## Current Research
 
