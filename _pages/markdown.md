@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research Directions
+title: Markdown
 ---
 
 # Research Directions
