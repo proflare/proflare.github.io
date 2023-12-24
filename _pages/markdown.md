@@ -1,3 +1,8 @@
+---
+layout: default
+title: Research Directions
+---
+
 # Research Directions
 
 ## Current Research
