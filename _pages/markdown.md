@@ -1,202 +1,31 @@
----
-permalink: /markdown/
-title: "Markdown"
-author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
----
+# Research Directions
 
-## Locations of key files/directories
+## Current Research
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+### Advanced AI Algorithms for Robust CFRP NDE
 
-## Tips and hints
+![Research Topic 1 Image](link_to_image1.jpg)
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+Carbon Fiber Reinforced Polymers (CFRP) stand out in various industries for their exceptional properties, particularly in aerospace, where their lightweight nature translates to significant energy savings. Despite these advantages, the Non-Destructive Evaluation (NDE) of CFRP poses significant challenges. In response, this research focuses on developing advanced AI algorithms to enhance the analysis of terahertz NDE data, aiming for more effective characterization.
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+The primary objective is to address the complexities associated with CFRP NDE, contributing to the successful completion of the project. The positive impact of this research extends to industries such as aerospace, transportation, energy, and manufacturing. The project is under the joint guidance of Professor David Citrin and Dr. Alexandre.
 
-## Markdown guide
+### Smart Hybrid washing system (SEHWS)
 
-### Header three
+![Research Topic 2 Image](link_to_image2.jpg)
 
-#### Header four
+Leading a collaborative effort with two fellow PhD students—one at the Georgia Institute of Technology in the USA and the other at Université du Québec à Trois-Rivières, Canada—I am spearheading the development of a Smart Hybrid Washing System (SEHWS). This innovative project involves designing and simulating an optimized SEHWS that draws power from both the national grid and a wind generator. Our objective is to minimize reliance on grid energy, especially during energy-intensive washing processes, addressing environmental and sustainability concerns.
 
-##### Header five
+## Past Research
 
-###### Header six
+### Swarm Intelligence for Drone Optimization
 
-## Blockquotes
+![Research Topic 3 Image](link_to_image3.jpg)
 
-Single line blockquote:
+Delving into the emerging field of swarming drones, my research at NMT (2019-2021) focused on optimizing the positioning of drones within a swarm. The goal was to reduce energy consumption and enhance overall system efficiency. This work has promising applications in areas such as underground mining rescue, wildfire fighting, and defense systems, where extended mission times are critical.
 
-> Quotes are cool.
+### Predictive Maintenance for Electric Machines
 
-## Tables
+![Research Topic 4 Image](link_to_image4.jpg)
 
-### Table 1
-
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
-### Table 2
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
+In the realm of electric machines, induction machines play a crucial role as generators or motors. Identifying overheating as a major failure risk, I initiated research (2017-2019) under the late Dr. Ralph David's guidance. Continued under the supervision of Prof. Wilfrido Moreno in the Department of Electrical Engineering, the objective was to develop a simulink model capable of predicting overheating during machine operation. This research culminated in my master's thesis defense, offering insights into proactive measures to mitigate economic losses and human risks associated with machine overheating.
