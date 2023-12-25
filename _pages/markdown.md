@@ -26,7 +26,10 @@ The primary objective is to address the complexities associated with CFRP NDE, c
 
 ### Smart Hybrid washing system (SEHWS)
 
-
+<div style="text-align: center;">
+  <img src='/images/System.png' alt='Defects Identification in CFRP' width='300' />
+  <p style="margin-top: 10px; font-weight: bold;">Structure of the Grid-Connected SEHWS</p>
+</div>
 
 Leading a collaborative effort with two fellow PhD students—one at the Georgia Institute of Technology in the USA and the other at Université du Québec à Trois-Rivières, Canada—I am spearheading the development of a Smart Hybrid Washing System (SEHWS). This innovative project involves designing and simulating an optimized SEHWS that draws power from both the national grid and a wind generator. Our objective is to minimize reliance on grid energy, especially during energy-intensive washing processes, addressing environmental and sustainability concerns.
 
