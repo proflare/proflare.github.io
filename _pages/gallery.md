@@ -1,10 +1,7 @@
 ---
 permalink: /gallery/
 title: "A good life is a collection of happy memories."
-author_profile: true
-redirect_from: 
-  - /md/
-  - /gallery.html
+
 ---
 
 
