@@ -12,7 +12,7 @@ redirect_from:
 
 ### Advanced AI Algorithms for Robust CFRP NDE
 
-![Defects Identification in CFRP](images/R1.jpg)
+![Defects Identification in CFRP](R1.png)
 
 Carbon Fiber Reinforced Polymers (CFRP) stand out in various industries for their exceptional properties, particularly in aerospace, where their lightweight nature translates to significant energy savings. Despite these advantages, the Non-Destructive Evaluation (NDE) of CFRP poses significant challenges. In response, this research focuses on developing advanced AI algorithms to enhance the analysis of terahertz NDE data, aiming for more effective characterization.
 
