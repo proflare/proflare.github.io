@@ -10,8 +10,8 @@ title: "A good life is a collection of happy memories."
 ### 2022
 
 <div style="text-align: center;">
-  <img src='/images/R1.png' alt='Defects Identification in CFRP' width='300' />
-  <p style="margin-top: 10px; font-weight: bold;">Defects Identification in CFRP</p>
+  <img src='/images/21.jpg' alt='ECE career fair at Georgia Tech' width='300' />
+  <p style="margin-top: 10px; font-weight: bold;">ECE career fair at Georgia Tech</p>
 </div>
 
 
