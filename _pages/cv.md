@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "[CV](_pages/CV_of_Niyem.pdf)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+[Download CV here](_pages/CV_of_Niyem.pdf) 
 Education
 ======
 * Ph.D. Candidate in Electrical Engineering, Georgia Institute of Technology, 2026 (expected)
