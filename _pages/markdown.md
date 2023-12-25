@@ -46,6 +46,9 @@ Delving into the emerging field of swarming drones, my research at NMT (2019-202
 
 ### Predictive Maintenance for Electric Machines
 
-![Research Topic 4 Image](link_to_image4.jpg)
+<div style="text-align: center;">
+  <img src='/images/IDM.PNG' alt='Induction hardening machines' width='300' />
+  <p style="margin-top: 10px; font-weight: bold;">Induction hardening machines</p>
+</div>
 
 In the realm of electric machines, induction machines play a crucial role as generators or motors. Identifying overheating as a major failure risk, I initiated research (2017-2019) under the late Dr. Ralph David's guidance. Continued under the supervision of Prof. Wilfrido Moreno in the Department of Electrical Engineering, the objective was to develop a simulink model capable of predicting overheating during machine operation. This research culminated in my master's thesis defense, offering insights into proactive measures to mitigate economic losses and human risks associated with machine overheating.
