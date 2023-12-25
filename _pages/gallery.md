@@ -73,7 +73,7 @@ title: "A good life is a collection of happy memories."
 
 <div style="text-align: center;">
   <img src='/images/35.jpg' alt='Travel to Canada and visit of Uottawa' width='300' />
-  <p style="margin-top: 10px; font-weight: bold;">Travel to Canada and visit of  Uottawa</p>
+  <p style="margin-top: 10px; font-weight: bold;">Travel to Canada and visit of  uOttawa</p>
 </div>
 
 ### 2017
