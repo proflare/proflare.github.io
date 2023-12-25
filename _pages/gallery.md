@@ -61,13 +61,13 @@ title: "A good life is a collection of happy memories."
 ### 2017
 
 <div style="text-align: center;">
-  <img src='/images/36.jpg' alt='Graduation ceremony of Fulbright preacademic training at Mississippi State University in Starckville' width='300' />
-  <p style="margin-top: 10px; font-weight: bold;">Graduation ceremony of Fulbright preacademic training at Mississippi State University in Starckville</p>
+  <img src='/images/33.jpg' alt='Visiting an automotive students research group at the department of mechanical engineering at Mississippi State University in Starckville' width='300' />
+  <p style="margin-top: 10px; font-weight: bold;">Visiting an automotive students' research group at the department of mechanical engineering at Mississippi State University in Starckville</p>
 </div>
 
 <div style="text-align: center;">
-  <img src='/images/33.jpg' alt='Visiting an automotive students' research group at the department of mechanical engineering at Mississippi State University in Starckville' width='300' />
-  <p style="margin-top: 10px; font-weight: bold;">Visiting an automotive students' research group at the department of mechanical engineering at Mississippi State University in Starckville</p>
+  <img src='/images/36.jpg' alt='Graduation ceremony of Fulbright preacademic training at Mississippi State University in Starckville' width='300' />
+  <p style="margin-top: 10px; font-weight: bold;">Graduation ceremony of Fulbright preacademic training at Mississippi State University in Starckville</p>
 </div>
 
 
