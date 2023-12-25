@@ -1,4 +1,29 @@
+---
+permalink: /gallery/
+title: "A good life is a collection of happy memories."
+author_profile: true
+redirect_from: 
+  - /md/
+  - /gallery.html
+---
 
 
-<img src="images/bio-photo-2.png" alt="Local Image" width="300"/>
+
+
+### 2023
+
+<div style="text-align: center;">
+  <img src='/images/R1.png' alt='Defects Identification in CFRP' width='300' />
+  <p style="margin-top: 10px; font-weight: bold;">Defects Identification in CFRP</p>
+</div>
+
+
+
+
+### 2022
+
+<div style="text-align: center;">
+  <img src='/images/System.png' alt='Defects Identification in CFRP' width='300' />
+  <p style="margin-top: 10px; font-weight: bold;">Structure of the Grid-Connected SEHWS</p>
+</div>
 
