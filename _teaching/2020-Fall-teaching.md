@@ -30,4 +30,4 @@ Held office hours to offer personalized assistance to students, addressing their
 
 Outcome
 ======
-* Received positive feedback from students for my approachability, clarity in explanations, and commitment to their academic success. 
+Received positive feedback from students for my approachability, clarity in explanations, and commitment to their academic success. 
