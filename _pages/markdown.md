@@ -42,7 +42,7 @@ Leading a collaborative effort with two fellow PhD students—one at the Georgia
   <p style="margin-top: 10px; font-weight: bold;">Sensing with swarming drones</p>
 </div>
 
-Delving into the emerging field of swarming drones, my research at NMT (2019-2021) focused on optimizing the positioning of drones within a swarm. The goal was to reduce energy consumption and enhance overall system efficiency. This work has promising applications in areas such as underground mining rescue, wildfire fighting, and defense systems, where extended mission times are critical.
+Delving into the emerging field of swarming drones, my research at NMT (2019-2021) focused on optimizing the positioning of drones within a swarm. The goal was to reduce energy consumption and enhance overall system efficiency. This work has promising applications in areas such as urban sensing, underground mining rescue, wildfire fighting, and defense systems, where extended mission times are critical.
 
 ### Predictive Maintenance for Electric Machines
 
