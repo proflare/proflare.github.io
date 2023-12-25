@@ -88,7 +88,7 @@ redirect_from:
 
 <div style="background-color: lightgreen; padding: 20px; border-radius: 10px;">
 
-  <h2 style="color: #333;">Coursework 📚</h2>
+  <h2 style="color: #888;">Coursework 📚</h2>
 
    <h3>Georgia Institute of Technology</h3>
   <ul>
