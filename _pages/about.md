@@ -83,3 +83,41 @@ redirect_from:
 
 </div>
 
+
+
+
+<div style="background-color: lightgreen; padding: 20px; border-radius: 10px;">
+
+  <h2 style="color: #333;">Coursework 📚</h2>
+
+   <h3>Georgia Institute of Technology</h3>
+  <ul>
+    <li>Course 1</li>
+    <li>Course 2</li>
+    <!-- Add more courses as needed -->
+  </ul>
+
+
+   <h3>New Mexico Institute of Mining and Technology</h3>
+  <ul>
+    <li>Course 1</li>
+    <li>Course 2</li>
+    <!-- Add more courses as needed -->
+  </ul>
+
+   <h3>University of South Florida</h3>
+  <ul>
+    <li>Course 1</li>
+    <li>Course 2</li>
+    <!-- Add more courses as needed -->
+  </ul>
+
+  <h3>Université de Lomé</h3>
+  <ul>
+    <li>Course 1</li>
+    <li>Course 2</li>
+    <!-- Add more courses as needed -->
+  </ul>
+
+
+</div>
