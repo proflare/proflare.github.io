@@ -12,14 +12,14 @@ redirect_from:
 
 ### Advanced AI Algorithms for Robust CFRP NDE
 
-<img src="images/R1.png" alt="Defects Identification in CFRP" width="200"/>
+"Defects Identification in CFRP<br/><img src='images/R1.png' width='300' height='200'>"
 Carbon Fiber Reinforced Polymers (CFRP) stand out in various industries for their exceptional properties, particularly in aerospace, where their lightweight nature translates to significant energy savings. Despite these advantages, the Non-Destructive Evaluation (NDE) of CFRP poses significant challenges. In response, this research focuses on developing advanced AI algorithms to enhance the analysis of terahertz NDE data, aiming for more effective characterization.
 
 The primary objective is to address the complexities associated with CFRP NDE, contributing to the successful completion of the project. The positive impact of this research extends to industries such as aerospace, transportation, energy, and manufacturing. The project is under the joint guidance of Professor David Citrin and Dr. Alexandre.
 
 ### Smart Hybrid washing system (SEHWS)
 
-excerpt: "Steve W. Chaddick School of Electrical and Computer Engineering<br/><img src='/images/GT-ECE.jpg' width="300">"
+excerpt: "Steve W. Chaddick School of Electrical and Computer Engineering<br/><img src='/images/GT-ECE.jpg' width='300' height='200'>"
 
 Leading a collaborative effort with two fellow PhD students—one at the Georgia Institute of Technology in the USA and the other at Université du Québec à Trois-Rivières, Canada—I am spearheading the development of a Smart Hybrid Washing System (SEHWS). This innovative project involves designing and simulating an optimized SEHWS that draws power from both the national grid and a wind generator. Our objective is to minimize reliance on grid energy, especially during energy-intensive washing processes, addressing environmental and sustainability concerns.
 
