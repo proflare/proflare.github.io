@@ -97,3 +97,8 @@ title: "A good life is a collection of happy memories."
   <p style="margin-top: 10px; font-weight: bold;">Posing with colleagues and the basketball team of lycee de Tokoin in Togo</p>
 </div>
 
+<div style="text-align: center;">
+  <img src='/images/8.jpg' alt='One of the classes I was teachingin at lycee de Tokoin in Togo' width='300' />
+  <p style="margin-top: 10px; font-weight: bold;">One of the classes I was teachingin at lycee de Tokoin in Togo</p>
+</div>
+
