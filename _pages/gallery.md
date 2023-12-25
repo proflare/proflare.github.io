@@ -37,8 +37,8 @@ title: "A good life is a collection of happy memories."
 ### 2020
 
 <div style="text-align: center;">
-  <img src='/images/System.png' alt='Defects Identification in CFRP' width='300' />
-  <p style="margin-top: 10px; font-weight: bold;">Structure of the Grid-Connected SEHWS</p>
+  <img src='/images/System.png' alt='Engineering Expo Event at USF Tampa' width='300' />
+  <p style="margin-top: 10px; font-weight: bold;">Engineering Expo Event at USF Tampa</p>
 </div>
 
 ### 2019
