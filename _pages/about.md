@@ -76,23 +76,38 @@ redirect_from:
 
   <h3>Université de Lomé</h3>
   <ul>
-    <li>Course 1</li>
-    <li>Course 2</li>
-    <!-- Add more courses as needed -->
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
   </ul>
 
   <h3>University of South Florida</h3>
   <ul>
-    <li>Course 1</li>
-    <li>Course 2</li>
-    <!-- Add more courses as needed -->
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
   </ul>
 
   <h3>New Mexico Institute of Mining and Technology</h3>
   <ul>
-    <li>Course 1</li>
-    <li>Course 2</li>
-    <!-- Add more courses as needed -->
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
   </ul>
 
   <h3>Georgia Institute of Technology</h3>
@@ -105,7 +120,7 @@ redirect_from:
     <li>ECE 6320 Power Systems Control & Operation</li>
     <li>ECE 6323 Power Systems Protection</li>
     <li>ECE 6500 Fourier Techiques & Signals Analysis</li>
-   
+   <li>ECE 6501 Fourier Optics & Holography</li>
   </ul>
 
 </div>
