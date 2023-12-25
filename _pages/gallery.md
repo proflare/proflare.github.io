@@ -90,5 +90,10 @@ title: "A good life is a collection of happy memories."
 </div>
 
 
+### 2014
 
+<div style="text-align: center;">
+  <img src='/images/26.jpg' alt='Posing with colleagues and the basketball team of lycee de Tokoin in Togo' width='300' />
+  <p style="margin-top: 10px; font-weight: bold;">Posing with colleagues and the basketball team of lycee de Tokoin in Togo</p>
+</div>
 
