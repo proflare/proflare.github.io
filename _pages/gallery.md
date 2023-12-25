@@ -62,8 +62,18 @@ title: "A good life is a collection of happy memories."
 ### 2018
 
 <div style="text-align: center;">
-  <img src='/images/System.png' alt='Defects Identification in CFRP' width='300' />
-  <p style="margin-top: 10px; font-weight: bold;">Structure of the Grid-Connected SEHWS</p>
+  <img src='/images/30.jpg' alt='Travel to Canada and visit of UofT' width='300' />
+  <p style="margin-top: 10px; font-weight: bold;">Travel to Canada and visit of  UofT</p>
+</div>
+
+<div style="text-align: center;">
+  <img src='/images/11.jpg' alt='Travel to Canada and visit of Polytechnique de Montreal' width='300' />
+  <p style="margin-top: 10px; font-weight: bold;">Travel to Canada and visit of  Polytechnique de Montreal</p>
+</div>
+
+<div style="text-align: center;">
+  <img src='/images/35.jpg' alt='Travel to Canada and visit of Uottawa' width='300' />
+  <p style="margin-top: 10px; font-weight: bold;">Travel to Canada and visit of  Uottawa</p>
 </div>
 
 ### 2017
