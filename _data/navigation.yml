@@ -3,12 +3,6 @@ main:
   - title: "Research"
     url: /markdown/
 
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Software"
-    url: /software/
-
   - title: "Teaching"
     url: /teaching/
 
@@ -23,3 +17,7 @@ main:
 
   - title: "Gallery"
     url: /gallery/
+
+  - title: "Code"
+    url: /Code/
+
