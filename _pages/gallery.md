@@ -100,8 +100,13 @@ title: "A good life is a collection of happy memories."
 ### 2015
 
 <div style="text-align: center;">
-  <img src='/images/System.png' alt='Defects Identification in CFRP' width='300' />
-  <p style="margin-top: 10px; font-weight: bold;">Structure of the Grid-Connected SEHWS</p>
+  <img src='/images/39.jpg' alt='Stellenbosch University department of mechanical engineering' width='300' />
+  <p style="margin-top: 10px; font-weight: bold;">Stellenbosch University department of mechanical engineering</p>
+</div>
+
+<div style="text-align: center;">
+  <img src='/images/37.jpg' alt='Stellenbosch University library' width='300' />
+  <p style="margin-top: 10px; font-weight: bold;">Stellenbosch University library</p>
 </div>
 
 
