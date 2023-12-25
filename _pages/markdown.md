@@ -47,7 +47,7 @@ Delving into the emerging field of swarming drones, my research at NMT (2019-202
 ### Predictive Maintenance for Electric Machines
 
 <div style="text-align: center;">
-  <img src='/images/IDM.PNG' alt='Induction hardening machines' width='300' />
+  <img src='/images/IDM.png' alt='Induction hardening machines' width='300' />
   <p style="margin-top: 10px; font-weight: bold;">Induction hardening machines</p>
 </div>
 
