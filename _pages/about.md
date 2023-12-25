@@ -97,9 +97,15 @@ redirect_from:
 
   <h3>Georgia Institute of Technology</h3>
   <ul>
-    <li>Course 1</li>
-    <li>Course 2</li>
-    <!-- Add more courses as needed -->
+    <li>CSE 6242 Data & Visual Analytics</li>
+    <li>CS 7641 Machine Learning</li>
+    <li>ECE 6563 Networked Control</li>
+    <li>ECE 6550 Linear Systems & Controls</li>
+    <li>ECE 4550 Control Systems Design</li>
+    <li>ECE 6320 Power Systems Control & Operation</li>
+    <li>ECE 6323 Power Systems Protection</li>
+    <li>ECE 6500 Fourier Techiques & Signals Analysis</li>
+   
   </ul>
 
 </div>
