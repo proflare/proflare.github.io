@@ -7,7 +7,7 @@ date: "2021-08-07"
 location: " Atlanta Georgia"
 ---
 
-I served as a teaching assistant in this course.The syllabus can be found [here](_teaching/Feedback-Control-Systems).
+I served as a teaching assistant in this course.
 
 Responsibilities
 ======
