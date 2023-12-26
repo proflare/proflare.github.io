@@ -7,7 +7,7 @@ date: "2019-01-15"
 location: "Socorro New Mexico"
 ---
 
-I served as a teaching assistant in this course.The following topics were covered in the laboratory activities: Becoming familiar with labview programming; Introduction to ELVIS system; Test of first order systems; Simulation of a second order systems in LabView; Circuit simulation and pendulum experiment; Stepper motor control; Frequency response; DC motor speed and position modeling; state-space control method; DC motor speed control. The magistral course to which this lab was attached syllabus can be found [here](MENG405 Syllabus).
+I served as a teaching assistant in this course.The following topics were covered in the laboratory activities: Becoming familiar with labview programming; Introduction to ELVIS system; Test of first order systems; Simulation of a second order systems in LabView; Circuit simulation and pendulum experiment; Stepper motor control; Frequency response; DC motor speed and position modeling; state-space control method; DC motor speed control. 
 
 Responsibilities
 ======
