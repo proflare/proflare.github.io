@@ -74,24 +74,29 @@ redirect_from:
 
   <h2 style="color: #333;">Coursework 📚</h2>
 
-  <h3>Université de Lomé</h3>
+  <h3>Georgia Institute of Technology</h3>
   <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>CSE 6242 Data & Visual Analytics</li>
+    <li>CS 7641 Machine Learning</li>
+    <li>ECE 6563 Networked Control</li>
+    <li>ECE 6550 Linear Systems & Controls</li>
+    <li>ECE 4550 Control Systems Design</li>
+    <li>ECE 6320 Power Systems Control & Operation</li>
+    <li>ECE 6323 Power Systems Protection</li>
+    <li>ECE 6500 Fourier Techiques & Signals Analysis</li>
+   <li>ECE 6501 Fourier Optics & Holography</li>
+  </ul>
+
+<h3>New Mexico Institute of Mining and Technology</h3>
+  <ul>
+    <li>MENG 544 Modern Control Theory</li>
+    <li>MENG 551 Optimal Control Systems</li>
+    <li>MENG 567 Smart Engineering Systems</li>
+    <li>MENG 572 Sensor Technology</li>
+    <li>MENG 589 Bioinspiration & Biomimetics</li>
+    <li>MENG 513 Impact Dynamic</li>
+    <li>MENG 577 Advanced Fluid Mechanics</li>
+    <li>MENG 589 Aircraft Design</li>
   </ul>
 
   <h3>University of South Florida</h3>
@@ -106,29 +111,24 @@ redirect_from:
     <li>EEE 5382 Physical Basis of Microelectronics</li>
   </ul>
 
-  <h3>New Mexico Institute of Mining and Technology</h3>
+  <h3>Université de Lomé</h3>
   <ul>
-    <li>MENG 544 Modern Control Theory</li>
-    <li>MENG 551 Optimal Control Systems</li>
-    <li>MENG 567 Smart Engineering Systems</li>
-    <li>MENG 572 Sensor Technology</li>
-    <li>MENG 589 Bioinspiration & Biomimetics</li>
-    <li>MENG 513 Impact Dynamic</li>
-    <li>MENG 577 Advanced Fluid Mechanics</li>
-    <li>MENG 589 Aircraft Design</li>
+    <li>Linear Algebra</li>
+    <li>Advanced Mathematics</li>
+    <li>Numerical Computing</li>
+    <li>Scientific Computing in Fortan</li>
+    <li>Geometrical Optics</li>
+    <li>Wave Optics</li>
+    <li>Thermodynamics</li>
+    <li>Fluid Mechanics</li>
+    <li>Atomistic</li>
+    <li>Cristallography</li>
+    <li>Quantum mechanics</li>
+    <li>Atomic & Nuclear Physics</li>
+    <li>Solid Mechanics</li>
+    <li>Relativity & Electromagnetism</li>
+    <li>Sensor Technology</li>
   </ul>
 
-  <h3>Georgia Institute of Technology</h3>
-  <ul>
-    <li>CSE 6242 Data & Visual Analytics</li>
-    <li>CS 7641 Machine Learning</li>
-    <li>ECE 6563 Networked Control</li>
-    <li>ECE 6550 Linear Systems & Controls</li>
-    <li>ECE 4550 Control Systems Design</li>
-    <li>ECE 6320 Power Systems Control & Operation</li>
-    <li>ECE 6323 Power Systems Protection</li>
-    <li>ECE 6500 Fourier Techiques & Signals Analysis</li>
-   <li>ECE 6501 Fourier Optics & Holography</li>
-  </ul>
 
 </div>
