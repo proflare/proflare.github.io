@@ -80,22 +80,30 @@ redirect_from:
     <li></li>
     <li></li>
     <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
   </ul>
 
   <h3>University of South Florida</h3>
   <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>EEL 6936 Power Electronics</li>
+    <li>EEL 6227 Electrical Machines & Drives</li>
+    <li>EEL 6936 Electric Distribution Systems </li>
+    <li>EEL 6027 Engineering Applications for Vector Analysis</li>
+    <li>EEL 6022 Engineering Applications for Complex Analysis</li>
+    <li>EEL 5356 Integrated Circuit Technology</li>
+    <li>EEE 6357 Integrated System Technologies</li>
+    <li>EEE 5382 Physical Basis of Microelectronics</li>
   </ul>
 
   <h3>New Mexico Institute of Mining and Technology</h3>
