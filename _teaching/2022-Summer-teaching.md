@@ -7,4 +7,5 @@ date: "2022-05-15"
 location: "Atlanta Georgia"
 ---
 
+I served as a teaching assistant in this course.
 The objective of this lab is to familiarize students with basic laboratory instrumentation by performing an elementary set of experiments. The activities covered topics such as computer control of laboratory instruments; First-Order Circuits;Second-Order Circuits; Basic Op-Amp Circuit I;Basic Op-Amp Circuit II; Active Filters; Second-Order Active Filter Circuits; Linear Op-Amp Oscillators; Relaxation Oscillators; Diode Devices and Applications; the Bipolar Junction Transistor; MOSFET Amplifier; the BJT Differential Amplifier.
