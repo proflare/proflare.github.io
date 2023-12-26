@@ -7,14 +7,5 @@ date: "2023-01-10"
 location: "Atlanta Georgia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This laboratry activities covered topics such as lab equipment; Op-Amp I; Op-Amp II; Filter I; Filter II; Diode Circuits; Relaxation Oscillators; Linear Power with Audio Amplifier; Pulse Width Modulation as well as Switches and Sensors.
 
