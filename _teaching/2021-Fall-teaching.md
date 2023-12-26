@@ -7,7 +7,7 @@ date: "2021-08-07"
 location: " Atlanta Georgia"
 ---
 
-I served as a teaching assistant in this course.The syllabus can be found [here](Feedback Control Systems - ECE-3550-A).
+I served as a teaching assistant in this course.The syllabus can be found [here](Feedback Control Systems - ECE-3550-A.pdf).
 
 Responsibilities
 ======
