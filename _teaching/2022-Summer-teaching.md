@@ -7,13 +7,4 @@ date: "2022-05-15"
 location: "Atlanta Georgia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+The objective of this lab is to familiarize students with basic laboratory instrumentation by performing an elementary set of experiments. The activities covered topics such as ...
