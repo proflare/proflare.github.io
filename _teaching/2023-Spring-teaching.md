@@ -6,6 +6,6 @@ venue: "Georgia Tech, School of Electrical and Computer Engineering"
 date: "2023-01-10"
 location: "Atlanta Georgia"
 ---
-
+I served as a teaching assistant in this course.
 This laboratry activities covered topics such as lab equipment; Op-Amp I; Op-Amp II; Filter I; Filter II; Diode Circuits; Relaxation Oscillators; Linear Power with Audio Amplifier; Pulse Width Modulation as well as Switches and Sensors.
 
