@@ -100,14 +100,14 @@ redirect_from:
 
   <h3>New Mexico Institute of Mining and Technology</h3>
   <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>MENG 544 Modern Control Theory</li>
+    <li>MENG 551 Optimal Control Systems</li>
+    <li>MENG 567 Smart Engineering Systems</li>
+    <li>MENG 572 Sensor Technology</li>
+    <li>MENG 589 Bioinspiration & Biomimetics</li>
+    <li>MENG 513 Impact Dynamic</li>
+    <li>MENG 577 Advanced Fluid Mechanics</li>
+    <li>MENG 589 Aircraft Design</li>
   </ul>
 
   <h3>Georgia Institute of Technology</h3>
