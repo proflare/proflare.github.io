@@ -26,9 +26,12 @@ title: "A good life is a collection of happy memories."
 ### 2019
 
 <div style="text-align: center;">
-  <img src='/images/14.jpg' alt='Graduation USF https://www.usf.edu/.' width='300' />
-  <p style="margin-top: 10px; font-weight: bold;">Graduation USF https://www.usf.edu/</p>
+  <img src='/images/14.jpg' alt='Graduation USF' width='300' />
+  <p style="margin-top: 10px; font-weight: bold;">
+    <a href="https://www.usf.edu/" target="_blank">Graduation USF</a>
+  </p>
 </div>
+
 
 <div style="text-align: center;">
   <img src='/images/32.jpg' alt='Graduation USF' width='300' />
@@ -61,14 +64,22 @@ title: "A good life is a collection of happy memories."
 ### 2017
 
 <div style="text-align: center;">
-  <img src='/images/33.jpg' alt='Visiting an automotive students research group at the department of mechanical engineering at Mississippi State University in Starckville' width='300' />
-  <p style="margin-top: 10px; font-weight: bold;">Visiting an automotive students' research group at the department of mechanical engineering at Mississippi State University in Starckville</p>
+  <img src='/images/33.jpg' alt='Visiting an automotive students research group at MSU-ME' width='300' />
+  <p style="margin-top: 10px; font-weight: bold;">
+    Visiting an automotive students' research group at
+    <a href="https://www.me.msstate.edu/" target="_blank">MSU-ME</a>
+  </p>
 </div>
 
+
 <div style="text-align: center;">
-  <img src='/images/36.jpg' alt='Graduation ceremony of Fulbright preacademic training at Mississippi State University in Starckville' width='300' />
-  <p style="margin-top: 10px; font-weight: bold;">Graduation ceremony of Fulbright preacademic training at Mississippi State University in Starckville</p>
+  <img src='/images/36.jpg' alt='Graduation ceremony of Fulbright preacademic training at MSU' width='300' />
+  <p style="margin-top: 10px; font-weight: bold;">
+    Graduation ceremony of Fulbright preacademic training at
+    <a href="https://www.msstate.edu/" target="_blank">MSU</a>
+  </p>
 </div>
+
 
 
 ### 2015
