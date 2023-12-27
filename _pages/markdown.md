@@ -57,20 +57,17 @@ In the realm of electric machines, induction machines play a crucial role as gen
 
 
 
-
 <div style="background-color: #81D4FA; padding: 20px; border-radius: 10px;">
 
-  <h1 style="color: #333;">Usefull Links</h1>
+  <h1 style="color: #333;">Useful Links</h1>
 
-  <h2>[Giving a Talk](https://www.comm.utoronto.ca/~frank/guide/guide0.html)</h2>
+  <h2><a href="https://www.comm.utoronto.ca/~frank/guide/guide0.html" style="color: #333;">Giving a Talk</a></h2>
 
+  <h2><a href="https://www.phys.unsw.edu.au/~jw/thesis.html" style="color: #333;">How to Write a PhD Thesis</a></h2>
 
-  <h2>[How to Write a PhD Thesis](https://www.phys.unsw.edu.au/~jw/thesis.html)</h2>
+  <h2><a href="https://cseweb.ucsd.edu//~wgg/CSE210/howtoread.html" style="color: #333;">How to Read an Engineering Research Paper</a></h2>
 
-
-  <h2>[How to Read an Engineering Research Paper](https://cseweb.ucsd.edu//~wgg/CSE210/howtoread.html)</h2>
-
-  <h2>[You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)</h2>
-
+  <h2><a href="https://www.cs.virginia.edu/~robins/YouAndYourResearch.html" style="color: #333;">You and Your Research</a></h2>
 
 </div>
+
