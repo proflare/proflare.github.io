@@ -1,7 +1,8 @@
 ---
-title: "Niyem posing at ECE"
-excerpt: "Steve W. Chaddick School of Electrical and Computer Engineering<br/><img src='/images/GT-ECE.jpg' width='300' height='500'>"
+title: "Niyem at Fulbright Enrichement seminar in Nashville"
+excerpt: "Niyem at Fulbright Enrichement seminar in Nashville<br/><img src='/images/7.jpg' width='300' ><img src='/images/9.jpg' width='300' >"
 collection: portfolio
 ---
 
-This is a picture of Niyem M. Bawana at the [Steve W. Chaddick School of Electrical and Computer Engineering](https://ece.gatech.edu/about/welcome-from-the-chair) at Georgia institute of Technology. 
+
+Niyem at Fulbright Enrichement seminar in Nashville Tennessee in 2018. 
