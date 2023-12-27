@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Research Directions"
+title: "Selected Research"
 author_profile: true
 redirect_from: 
   - /md/
@@ -52,6 +52,17 @@ Delving into the emerging field of swarming drones, my research at NMT (2019-202
 </div>
 
 In the realm of electric machines, induction machines play a crucial role as generators or motors. Identifying overheating as a major failure risk, I initiated research (2017-2019) under the late Dr. Ralph David's guidance. Continued under the supervision of Prof. Wilfrido Moreno in the Department of Electrical Engineering, the objective was to develop a simulink model capable of predicting overheating during machine operation. This research culminated in my master's thesis defense, offering insights into proactive measures to mitigate economic losses and human risks associated with machine overheating.
+
+
+### Solar Water Heaters (SWHs) Modeling & Simulation
+
+<div style="text-align: center;">
+  <img src='images/SWH.png' alt='Solar water heater' width='300' />
+  <p style="margin-top: 10px; font-weight: bold;">Solar water heater</p>
+</div>
+
+SWHs consist of solar collectors that absorb sunlight and transfer the heat to a fluid, which then circulates through a system to heat water. Solar water heaters are vital for rural areas for several reasons. Primarily, they provide a sustainable and cost-effective alternative to traditional energy sources, reducing reliance on electricity or fossil fuels. Additionally, solar water heaters require minimal maintenance and have a long lifespan, making them suitable for rural environments with limited resources for repairs. I got interested into these sustainable devices during an exchange program at [STERG](https://sterg.sun.ac.za/) due to the above advantages. I delved into the modeling, and simulation of these devices and upon my return to Togo, I pursued my dream on assessing the potential of SWHs in Togo, which led to a published article that can be downloaded [here](https://www.semanticscholar.org/reader/e57b7cd246cd351644cf4572eb6f0b9643abe59c).
+
 
 
 
