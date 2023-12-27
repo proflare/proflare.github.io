@@ -1,6 +1,6 @@
 ---
 title: "Niyem at Fulbright Enrichement seminar in Nashville"
-excerpt: "Niyem at Fulbright Enrichement seminar in Nashville<br/><img src='/images/7.jpg' width='300' ><img src='/images/9.jpg' width='425' >"
+excerpt: "Niyem at Fulbright Enrichement seminar in Nashville<br/><img src='/images/7.jpg' width='300' ><img src='/images/9.jpg' width='410' >"
 collection: portfolio
 ---
 
