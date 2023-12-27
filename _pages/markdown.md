@@ -52,3 +52,25 @@ Delving into the emerging field of swarming drones, my research at NMT (2019-202
 </div>
 
 In the realm of electric machines, induction machines play a crucial role as generators or motors. Identifying overheating as a major failure risk, I initiated research (2017-2019) under the late Dr. Ralph David's guidance. Continued under the supervision of Prof. Wilfrido Moreno in the Department of Electrical Engineering, the objective was to develop a simulink model capable of predicting overheating during machine operation. This research culminated in my master's thesis defense, offering insights into proactive measures to mitigate economic losses and human risks associated with machine overheating.
+
+
+
+
+
+
+<div style="background-color: #81D4FA; padding: 20px; border-radius: 10px;">
+
+  <h1 style="color: #333;">Usefull Links</h1>
+
+  <h2>[Giving a Talk](https://www.comm.utoronto.ca/~frank/guide/guide0.html)</h2>
+
+
+  <h2>[How to Write a PhD Thesis](https://www.phys.unsw.edu.au/~jw/thesis.html)</h2>
+
+
+  <h2>[How to Read an Engineering Research Paper](https://cseweb.ucsd.edu//~wgg/CSE210/howtoread.html)</h2>
+
+  <h2>[You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)</h2>
+
+
+</div>
