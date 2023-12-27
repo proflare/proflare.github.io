@@ -57,7 +57,7 @@ In the realm of electric machines, induction machines play a crucial role as gen
 ### Solar Water Heaters (SWHs) Modeling & Simulation
 
 <div style="text-align: center;">
-  <img src='images/SWH.png' alt='Solar water heater' width='300' />
+  <img src='/images/SWH.png' alt='Solar water heater' width='300' />
   <p style="margin-top: 10px; font-weight: bold;">Solar water heater</p>
 </div>
 
