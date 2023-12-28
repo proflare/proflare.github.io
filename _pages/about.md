@@ -123,7 +123,7 @@ redirect_from:
     <li>Linear Algebra</li>
     <li>Advanced Mathematics</li>
     <li>Numerical Computing</li>
-    <li>Scientific Computing in Fortan</li>
+    <li>Scientific Computing in Fortran</li>
     <li>Geometrical Optics</li>
     <li>Wave Optics</li>
     <li>Thermodynamics</li>
