@@ -60,11 +60,11 @@ Research experience
 Skills
 ======
 * Public Speaking
-* Communication
 * Analog Electronics
 * Troubleshooting
 * Electronic Circuit Analysis
 * Version Control
+* Artificial intelligence
 * Data Visualization
 * SQL
 * Storytelling with Data
