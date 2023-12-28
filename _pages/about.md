@@ -40,7 +40,7 @@ redirect_from:
         <a href="https://books.google.com/books?hl=en&lr=&id=QptXEAAAQBAJ&oi=fnd&pg=PR9&dq=Computer+Vision&ots=BNudBYXFAo&sig=RuzX93KR1v2FI4LlHGwTiXAEmJw#v=onepage&q=Computer%20Vision&f=false">Computer Vision</a>,
         <a href="https://books.google.com/books?hl=en&lr=&id=gAGRCmp8Sp8C&oi=fnd&pg=PP1&dq=Pattern+Recognition&ots=pKN2XFScZL&sig=3K2uAtdv_PzLq4TKMH6TtZ4SO64#v=onepage&q=Pattern%20Recognition&f=false">Pattern Recognition</a>,
        <a href="https://link.springer.com/chapter/10.1007/978-3-662-49851-4_1">Data Science</a>,
-        <a href="https://books.google.com/books?hl=en&lr=&id=5UE6YCjDG-MC&oi=fnd&pg=PP1&dq=Sensor+Technology&ots=jhGTk3oGJX&sig=RyjSoRIOBn_vXPfh7wXvo4Uc7LU#v=onepage&q=Sensor%20Technology&f=false">Sensor Technology</a>
+        <a href="https://books.google.com/books?hl=en&lr=&id=5UE6YCjDG-MC&oi=fnd&pg=PP1&dq=Sensor+Technology&ots=jhGTk3oGJX&sig=RyjSoRIOBn_vXPfh7wXvo4Uc7LU#v=onepage&q=Sensor%20Technology&f=false">Sensor Technology.</a>
     </span>
 </li>
    
