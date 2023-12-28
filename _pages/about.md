@@ -16,7 +16,7 @@ redirect_from:
 
   <p style="color: #333;">After a stint as a high school physics teacher, Niyem interned at the Department of Mechanical Engineering at Stellenbosch University in South Africa where he worked on the modeling and simulation of thermal energy systems.</p>
 
-  <p style="color: #333;">Niyem is currently a Ph.D. candidate in the school of electrical and computer engineering at Georgia Institute of Technology under Professor David Citrin where his research focuses on leveraging terahertz and artificial intelligence for the nondestructive evaluation of carbon fiber composites.</p>
+  <p style="color: #333;">Niyem is currently a Ph.D. candidate in the school of electrical and computer engineering at Georgia Institute of Technology under Professor David Citrin where his research focuses on leveraging terahertz and artificial intelligence for the nondestructive evaluation of carbon fiber reinforced polymers (CFRPs).</p>
 
 </div>
 
