@@ -141,9 +141,42 @@ redirect_from:
 </div>
 
 
+<style>
+  .quote-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #282c35; /* Background color of the entire quote container */
+  }
+
+  .quote-box {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffffff; /* Background color of the quote box */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 600px;
+    width: 100%;
+  }
+
+  .quote-text {
+    font-size: 24px;
+    font-style: italic;
+    color: #333333; /* Text color of the quote */
+    margin-bottom: 15px;
+  }
+
+  .quote-author {
+    font-size: 18px;
+    color: #555555; /* Text color of the author */
+  }
+</style>
+
 <div class="quote-container">
   <div class="quote-box">
     <p class="quote-text">Scientists investigate that which already is;<br>engineers create that which has never been.</p>
     <p class="quote-author">- Albert Einstein</p>
   </div>
 </div>
+
