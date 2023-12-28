@@ -29,8 +29,8 @@ redirect_from:
     <span style="color: #0000FF;">
         <a href="https://en.wikipedia.org/wiki/Terahertz_nondestructive_evaluation](https://pubs.aip.org/aip/jap/article/124/23/231101/155935/Tutorial-An-introduction-to-terahertz-time-domain)">Terahertz Time Domain Spectroscopy</a>,
         <a href="https://royalsocietypublishing.org/doi/full/10.1098/rsta.2006.1928">Structural Health Monitoring</a>,
-        <a href="https://link.springer.com/chapter/10.1007/978-3-319-02168-3_2">Sustainability</a>,
-        <a href="https://books.google.com/books?hl=en&lr=&id=4hBTUY_2BMIC&oi=fnd&pg=PA999&dq=Optical+Engineering&ots=kJ7mnAh72f&sig=XxJ1w0kxQ5g4vd4YDxGdZCo-4kE#v=onepage&q=Optical%20Engineering&f=false">Optical Engineering</a>
+        <a href="https://books.google.com/books?hl=en&lr=&id=4hBTUY_2BMIC&oi=fnd&pg=PA999&dq=Optical+Engineering&ots=kJ7mnAh72f&sig=XxJ1w0kxQ5g4vd4YDxGdZCo-4kE#v=onepage&q=Optical%20Engineering&f=false">Optical Engineering</a>,
+      <a href="https://link.springer.com/chapter/10.1007/978-3-319-02168-3_2">Sustainability;</a>
     </span>
 </li>
 
