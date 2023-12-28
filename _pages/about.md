@@ -25,25 +25,32 @@ redirect_from:
   <h2 style="color: #333;">Research Interests 🎓</h2>
 
   <ul>
-    <li><span style="color: #4CAF50;"><a href="https://en.wikipedia.org/wiki/Terahertz_nondestructive_evaluation">Terahertz NDE</a></span></li>
-    <li><span style="color: #4CAF50;">Optical Engineering</span></li>
-    <li><span style="color: #4CAF50;">Sensor Technology</span></li>
-    <li><span style="color: #4CAF50;">Materials Characterization</span></li>
-    <li><span style="color: #4CAF50;">Structural Health Monitoring</span></li>
-    <li><span style="color: #4CAF50;">Artificial Intelligence</span></li>
-    <li><span style="color: #4CAF50;">Data Analytics</span></li>
-    <li><span style="color: #4CAF50;">Data Science</span></li>
-    <li><span style="color: #4CAF50;">Computer Vision</span></li>
-    <li><span style="color: #4CAF50;">Machine Learning</span></li>
-    <li><span style="color: #4CAF50;">Pattern Recognition</span></li>
-    <li><span style="color: #4CAF50;">Sustainability</span></li>
+    <li>
+    <span style="color: #0000FF;">
+        <a href="https://en.wikipedia.org/wiki/Terahertz_nondestructive_evaluation](https://pubs.aip.org/aip/jap/article/124/23/231101/155935/Tutorial-An-introduction-to-terahertz-time-domain)">Terahertz Time Domain Spectroscopy</a>,
+        <a href="https://royalsocietypublishing.org/doi/full/10.1098/rsta.2006.1928">Structural Health Monitoring</a>,
+        <a href="https://link.springer.com/chapter/10.1007/978-3-319-02168-3_2">Sustainability</a>,
+        <a href="https://books.google.com/books?hl=en&lr=&id=4hBTUY_2BMIC&oi=fnd&pg=PA999&dq=Optical+Engineering&ots=kJ7mnAh72f&sig=XxJ1w0kxQ5g4vd4YDxGdZCo-4kE#v=onepage&q=Optical%20Engineering&f=false">Optical Engineering</a>
+    </span>
+</li>
+
+<li>
+    <span style="color: #0000FF;">
+        <a href="https://books.google.com/books?hl=en&lr=&id=geFHDwAAQBAJ&oi=fnd&pg=PR5&dq=Artificial+Intelligence&ots=3G2t84iH1t&sig=-oFUtuDM1_w7RGKwVBPykh6YPAQ#v=onepage&q=Artificial%20Intelligence&f=false">Artificial Intelligence</a>,
+        <a href="https://books.google.com/books?hl=en&lr=&id=QptXEAAAQBAJ&oi=fnd&pg=PR9&dq=Computer+Vision&ots=BNudBYXFAo&sig=RuzX93KR1v2FI4LlHGwTiXAEmJw#v=onepage&q=Computer%20Vision&f=false">Computer Vision</a>,
+        <a href="https://books.google.com/books?hl=en&lr=&id=gAGRCmp8Sp8C&oi=fnd&pg=PP1&dq=Pattern+Recognition&ots=pKN2XFScZL&sig=3K2uAtdv_PzLq4TKMH6TtZ4SO64#v=onepage&q=Pattern%20Recognition&f=false">Pattern Recognition</a>,
+       <a href="https://link.springer.com/chapter/10.1007/978-3-662-49851-4_1">Data Science</a>,
+        <a href="https://books.google.com/books?hl=en&lr=&id=5UE6YCjDG-MC&oi=fnd&pg=PP1&dq=Sensor+Technology&ots=jhGTk3oGJX&sig=RyjSoRIOBn_vXPfh7wXvo4Uc7LU#v=onepage&q=Sensor%20Technology&f=false">Sensor Technology</a>
+    </span>
+</li>
+   
   </ul>
 
 </div>
 
 <div style="background-color: #81D4FA; padding: 20px; border-radius: 10px;">
 
-  <h1 style="color: #333;">Future Career Plan 🌐</h1>
+  <h1 style="color: #333;">Career Plan 🌐</h1>
 
   <h2>Short-Term Goal: Internship or Co-op</h2>
 
