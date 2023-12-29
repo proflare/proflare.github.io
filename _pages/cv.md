@@ -26,7 +26,7 @@ Research experience
 * 2022-present: Research Assistant, Georgia Tech
   * [PHOTONICS AND TERAHERTZ GROUP](http://photonics.georgiatech-metz.fr/node/33)
   * Duties include: AI-Based Terahertz Tomography for NDE
-  * Supervisor:  [Prof. David Citrin](https://ece.gatech.edu/directory/david-s-citrin) and [Prof. Alexandre Locquet](http://photonics.georgiatech-metz.fr/node/25)
+  * Supervisors:  [Prof. David Citrin](https://ece.gatech.edu/directory/david-s-citrin) and [Prof. Alexandre Locquet](http://photonics.georgiatech-metz.fr/node/25)
  
     
 * Spring 2021: Research Assistant, Georgia Tech
