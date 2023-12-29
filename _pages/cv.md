@@ -15,7 +15,8 @@ Education
 * Ph.D. Candidate in Electrical Engineering, Georgia Institute of Technology, 2025 (expected)
 * M.S. in Mechanical Engineering, New Mexico Institute of Mining and Technology, 2021
 * M.S. in Electrical Engineering, University of South Florida, 2019
-* B.S. in Applied Physics, Universite de Lome, 2008
+* M.S. in Applied Physics, Universite de Lome, 2008
+* B.S. in Applied Physics, Universite de Lome, 2007
   
   
   
@@ -25,7 +26,7 @@ Research experience
 * 2022-present: Research Assistant, Georgia Tech
   * [PHOTONICS AND TERAHERTZ GROUP](http://photonics.georgiatech-metz.fr/node/33)
   * Duties include: AI-Based Terahertz Tomography for NDE
-  * [Supervisor:  David Citrin](https://ece.gatech.edu/directory/david-s-citrin)
+  * Supervisor:  [Prof. David Citrin](https://ece.gatech.edu/directory/david-s-citrin) and [Prof. Alexandre Locquet](http://photonics.georgiatech-metz.fr/node/25)
  
     
 * Spring 2021: Research Assistant, Georgia Tech
