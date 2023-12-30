@@ -72,13 +72,15 @@ SWHs consist of solar collectors that absorb sunlight and transfer the heat to a
 
   <h1 style="color: #333;">Useful Links</h1>
 
-  <h2><a href="https://www.comm.utoronto.ca/~frank/guide/guide0.html" style="color: #333;">Giving a Talk</a></h2>
+  <h2><a href="https://www.comm.utoronto.ca/~frank/guide/guide0.html" style="color: #333;">1. Giving a Talk</a></h2>
 
-  <h2><a href="https://www.phys.unsw.edu.au/~jw/thesis.html" style="color: #333;">How to Write a PhD Thesis</a></h2>
+  <h2><a href="https://cseweb.ucsd.edu//~wgg/CSE210/howtoread.html" style="color: #333;">2. How to Read an Engineering Research Paper</a></h2>
 
-  <h2><a href="https://cseweb.ucsd.edu//~wgg/CSE210/howtoread.html" style="color: #333;">How to Read an Engineering Research Paper</a></h2>
+  <h2><a href="https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html" style="color: #333;">3. How to write a technical paper or a research paper</a></h2>  
 
-  <h2><a href="https://www.cs.virginia.edu/~robins/YouAndYourResearch.html" style="color: #333;">You and Your Research</a></h2>
+  <h2><a href="https://www.cs.virginia.edu/~robins/YouAndYourResearch.html" style="color: #333;">4. You and Your Research</a></h2>
+
+  <h2><a href="https://www.phys.unsw.edu.au/~jw/thesis.html" style="color: #333;">5. How to Write a PhD Thesis</a></h2>
 
 </div>
 
