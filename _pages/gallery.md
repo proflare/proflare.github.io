@@ -104,6 +104,6 @@ title: "A good life is a collection of happy memories."
 
 <div style="text-align: center;">
   <img src='/images/8.jpg' alt='Classroom at Lycee de Tokoin' width='300' />
-  <p style="margin-top: 10px; font-weight: bold;">OClassroom at Lycee de Tokoin</p>
+  <p style="margin-top: 10px; font-weight: bold;">Classroom at Lycee de Tokoin</p>
 </div>
 
