@@ -1,6 +1,6 @@
 ---
 title: "ECE 3741-Experiments in Analog Electronics"
-excerpt: "ECE 3741-Experiments in Analog Electronics<br/><img src='/images/2.jpg' width='300' ><img src='/images/3.jpg' width='300' >"
+excerpt: "Georgia Tech Atlanta<br/><img src='/images/2.jpg' width='300' ><img src='/images/3.jpg' width='300' >"
 collection: portfolio
 ---
 
