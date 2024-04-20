@@ -15,7 +15,7 @@ redirect_from:
   <p style="color: #333;">Niyem received the B.Sc. and the Maîtrise in applied physics from the Université de Lomé. He then served as a high school physics teacher with the department of Eduction of Togo for 6 years before moving to Stellenbosch University in South Africa after winning the PAFROID scholarship in 2015. At Stellenbosch University he worked as a research intern within the Department of Mechanical Engineering under Professor Franck Dinter who was then the Director of the Solar Thermal Energy Research Group (STERG). Niyem's work focused on the modeling and simulation of thermal energy systems. In 2017, upon wining the Fullbright scholarship, Niyem joined the University of South Florida (USF) for his master in Electrical Engineering. After he graduated in 2019 from the USF, Niyem joined the New Mexico Institute of Mining and Technology in 2019, and graduated in June 2021 with another master in mechanical Engineering with specialization in robotics.</p>
 
 
-  <p style="color: #333;">Since Fall, 2021 Niyem has been a Ph.D. student in the school of Electrical and Computer Engineering at Georgia Institute of Technology advised by Prof David Citrin and Prof. Alexandre Locquet. One of Niyem's research focus is leveraging terahertz and artificial intelligence for the nondestructive evaluation of carbon fiber reinforced polymers (CFRPs).</p>
+  <p style="color: #333;">Since Fall, 2021 Niyem has been a Ph.D. student in the School of Electrical and Computer Engineering at Georgia Institute of Technology advised by Prof David Citrin and Prof. Alexandre Locquet. One of Niyem's research focus is leveraging terahertz and artificial intelligence for the nondestructive evaluation of carbon fiber reinforced polymers (CFRPs).</p>
 
 </div>
 
