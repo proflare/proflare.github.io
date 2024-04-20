@@ -1,6 +1,6 @@
 ---
 title: "Substation tour in Atlanta"
-excerpt: "Substation tour in Atlanta<br/><img src='/images/13.jpg' width='300' ><img src='/images/29.jpg' width='300' >"
+excerpt: "Atlanta Georgia 2022<br/><img src='/images/13.jpg' width='300' ><img src='/images/29.jpg' width='300' >"
 collection: portfolio
 ---
 
