@@ -86,8 +86,8 @@ Teaching
   
 Awards
 ======
-* [ The STEER Fellowship:2024](https://ece.gatech.edu/news/2023/07/new-graduate-fellowships-and-awards-promote-professional-development)
-*  [ Fulbright Scholarship:2017--2019](https://fulbrightscholars.org/non-us-scholars)
+* [ The STEER Fellowship: 2024](https://ece.gatech.edu/news/2023/07/new-graduate-fellowships-and-awards-promote-professional-development)
+*  [ Fulbright Scholarship: 2017--2019](https://fulbrightscholars.org/non-us-scholars)
 * [Global Achievement Awards: 2018](https://www.usf.edu/world/about/news/2017-global-achievement-awards.aspx)
-* [Pafroid Scholarship:2015](https://www0.sun.ac.za/international/assets/files/Take%20Note%20Newsletter%20(06%20May%202014).pdf)
+* [Pafroid Scholarship: 2015](https://www0.sun.ac.za/international/assets/files/Take%20Note%20Newsletter%20(06%20May%202014).pdf)
   
