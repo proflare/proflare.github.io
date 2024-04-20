@@ -10,8 +10,8 @@ title: "A good life is a collection of happy memories."
 ### 2022
 
 <div style="text-align: center;">
-  <img src='/images/21.jpg' alt='ECE career fair at Georgia Tech' width='300' />
-  <p style="margin-top: 10px; font-weight: bold;">ECE career fair at Georgia Tech</p>
+  <img src='/images/21.jpg' alt='ECE career fair, Georgia Tech Atlanta' width='300' />
+  <p style="margin-top: 10px; font-weight: bold;">ECE career fair, Georgia Tech Atlanta</p>
 </div>
 
 
@@ -26,16 +26,16 @@ title: "A good life is a collection of happy memories."
 ### 2019
 
 <div style="text-align: center;">
-  <img src='/images/14.jpg' alt='Graduation USF' width='300' />
+  <img src='/images/14.jpg' alt='Graduation USF Tampa' width='300' />
   <p style="margin-top: 10px; font-weight: bold;">
-    <a href="https://www.usf.edu/" target="_blank">Graduation USF</a>
+    <a href="https://www.usf.edu/" target="_blank">Graduation USF Tampa</a>
   </p>
 </div>
 
 
 <div style="text-align: center;">
-  <img src='/images/32.jpg' alt='Graduation USF' width='300' />
-  <p style="margin-top: 10px; font-weight: bold;">Graduation USF</p>
+  <img src='/images/32.jpg' alt='Graduation USF Tampa' width='300' />
+  <p style="margin-top: 10px; font-weight: bold;">Graduation USF Tampa</p>
 </div>
 
 <div style="text-align: center;">
@@ -47,35 +47,35 @@ title: "A good life is a collection of happy memories."
 ### 2018
 
 <div style="text-align: center;">
-  <img src='/images/30.jpg' alt='Travel to Canada and visit of UofT' width='300' />
-  <p style="margin-top: 10px; font-weight: bold;">Travel to Canada and visit of  UofT</p>
+  <img src='/images/30.jpg' alt='University of Toronto' width='300' />
+  <p style="margin-top: 10px; font-weight: bold;">University of Toronto</p>
 </div>
 
 <div style="text-align: center;">
-  <img src='/images/11.jpg' alt='Travel to Canada and visit of Polytechnique de Montreal' width='300' />
-  <p style="margin-top: 10px; font-weight: bold;">Travel to Canada and visit of  Polytechnique de Montreal</p>
+  <img src='/images/11.jpg' alt='Polytechnique de Montreal' width='300' />
+  <p style="margin-top: 10px; font-weight: bold;">Polytechnique de Montreal</p>
 </div>
 
 <div style="text-align: center;">
-  <img src='/images/35.jpg' alt='Travel to Canada and visit of Uottawa' width='300' />
-  <p style="margin-top: 10px; font-weight: bold;">Travel to Canada and visit of  uOttawa</p>
+  <img src='/images/35.jpg' alt='Univerity of ottawa' width='300' />
+  <p style="margin-top: 10px; font-weight: bold;">Univerity of ottawa</p>
 </div>
 
 ### 2017
 
 <div style="text-align: center;">
-  <img src='/images/33.jpg' alt='Visiting an automotive students research group at MSU-ME' width='300' />
+  <img src='/images/33.jpg' alt='Automotive students research group at MSU-ME' width='300' />
   <p style="margin-top: 10px; font-weight: bold;">
-    Visiting an automotive students' research group at
+    Automotive students' research group at
     <a href="https://www.me.msstate.edu/" target="_blank">MSU-ME</a>
   </p>
 </div>
 
 
 <div style="text-align: center;">
-  <img src='/images/36.jpg' alt='Graduation ceremony of Fulbright preacademic training at MSU' width='300' />
+  <img src='/images/36.jpg' alt='Fulbright preacademic training at MSU' width='300' />
   <p style="margin-top: 10px; font-weight: bold;">
-    Graduation ceremony of Fulbright preacademic training at
+    Fulbright preacademic training at
     <a href="https://www.msstate.edu/" target="_blank">MSU</a>
   </p>
 </div>
@@ -85,8 +85,8 @@ title: "A good life is a collection of happy memories."
 ### 2015
 
 <div style="text-align: center;">
-  <img src='/images/39.jpg' alt='Stellenbosch University department of mechanical engineering' width='300' />
-  <p style="margin-top: 10px; font-weight: bold;">Stellenbosch University department of mechanical engineering</p>
+  <img src='/images/39.jpg' alt='Stellenbosch University' width='300' />
+  <p style="margin-top: 10px; font-weight: bold;">Stellenbosch University</p>
 </div>
 
 <div style="text-align: center;">
@@ -98,12 +98,12 @@ title: "A good life is a collection of happy memories."
 ### 2014
 
 <div style="text-align: center;">
-  <img src='/images/26.jpg' alt='Posing with colleagues and the basketball team of lycee de Tokoin in Togo' width='300' />
-  <p style="margin-top: 10px; font-weight: bold;">Posing with colleagues and the basketball team of lycee de Tokoin in Togo</p>
+  <img src='/images/26.jpg' alt='Basketball team of Lycee de Tokoin in Togo' width='300' />
+  <p style="margin-top: 10px; font-weight: bold;">Basketball team of Lycee de Tokoin in Togo</p>
 </div>
 
 <div style="text-align: center;">
-  <img src='/images/8.jpg' alt='One of the classes I was teachingin at lycee de Tokoin in Togo' width='300' />
-  <p style="margin-top: 10px; font-weight: bold;">One of the classes I was teachingin at lycee de Tokoin in Togo</p>
+  <img src='/images/8.jpg' alt='Classroom at Lycee de Tokoin' width='300' />
+  <p style="margin-top: 10px; font-weight: bold;">OClassroom at Lycee de Tokoin</p>
 </div>
 
