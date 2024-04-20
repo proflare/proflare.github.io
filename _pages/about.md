@@ -174,8 +174,8 @@ redirect_from:
 
 <div class="quote-container">
   <div class="quote-box">
-    <p class="quote-text">Scientists investigate that which already is;<br>engineers create that which has never been.</p>
-    <p class="quote-author">- Albert Einstein</p>
+    <p class="quote-text">"Scientists investigate that which already is;<br>engineers create that which has never been.", Albert Einstein</p>
+    <p class="quote-author">"My Name is Niyem and I am a scientist and an engineer so I can create that which never has been and also investigate that which already is!"</p>
   </div>
 </div>
 
