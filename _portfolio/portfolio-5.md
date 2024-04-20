@@ -1,5 +1,5 @@
 ---
-title: "Integrated Circuit USF"
+title: "Integrated Circuit Clean Room Lab"
 excerpt: "University of South Florida Tampa<br/><img src='/images/12.jpg' width='300' ><img src='/images/10.jpg' width='300' >"
 collection: portfolio
 ---
