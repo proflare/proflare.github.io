@@ -60,10 +60,10 @@ Research experience
   
 Skills
 ======
-* Experience working with large, distributed data sets to derive actional insight
-* Ability to manipulate and analyze complex, high-volume, high-dimensional data from various sources.
-* Advanced skills and experience in Tableau, R, Python, SQL, PySpark, Version Control, and PyTorch framework.
-* Ability to design, build, and maintain business reporting and dashboards, ensuring data integrity and accuracy.
+• Experience working with large, distributed data sets to derive actional insight
+• Ability to manipulate and analyze complex, high-volume, high-dimensional data from various sources.
+• Advanced skills and experience in Tableau, R, Python, SQL, PySpark, Version Control, and PyTorch framework.
+• Ability to design, build, and maintain business reporting and dashboards, ensuring data integrity and accuracy.
 • Use predictive modeling to increase and optimize customer experiences, revenue generation, data insights, and other
 business outcomes.
 
