@@ -46,7 +46,7 @@ Research experience
  
 * 2017--2019: Research Assistant, University of South Florida
   * Duties included: Prediction of Thermal Failure of Induction Machines
-  * Supervisor: Professor Wilfrido Moreno and late Dr. Ralph David Fehr
+  * Supervisors: Professor Wilfrido Moreno and late Dr. Ralph David Fehr
  
 * Jan 2016--Jun 2017: Research Assistant, University of Lome
   * Solar Energy Laboratory of University of Lome
