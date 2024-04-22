@@ -66,20 +66,33 @@ Skills
 * Ability to design, build, and maintain business reporting and dashboards, ensuring data integrity and accuracy.
 • Use predictive modeling to increase and optimize customer experiences, revenue generation, data insights, and other
 business outcomes.
+
 • Data mining and statistical modeling (e.g., regression modeling, clustering techniques, decision trees, etc.).
+
 • Building predictive and descriptive statistical models advanced Artificial Intelligence (AI) and Machine Learning (ML)
 algorithms.
+
 • Willing to brainstorm innovative ways to use data to answer business problems.
+
 • Excellent collaboration skills that promote a positive team environment by modeling continuous learning behavior.
+
 • Excellent organizational skills, attention to detail, and ability to work independently and as a team member.
+
 • Interpersonal communication and ability to leverage the data to tell a story.
+
 • curious and willing to continuously learn about the business.
-* Experience with Version Control (Git) and Utilization of Linux OS (Ubuntu)
-* Artificial intelligence
-* DInstrumentation and Measurement
-• Analog electronics design and troubleshooting
-• Circuit analysis and simulation
-• Hardware testing and verification
+
+* Experience with Version Control (Git) and Utilization of Linux OS (Ubuntu).
+  
+* Artificial intelligence.
+  
+* DInstrumentation and Measurement.
+  
+• Analog electronics design and troubleshooting.
+
+• Circuit analysis and simulation.
+
+• Hardware testing and verification.
   
 Talks
 ======
