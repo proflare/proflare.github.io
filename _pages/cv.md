@@ -60,17 +60,26 @@ Research experience
   
 Skills
 ======
-* Public Speaking
-* Analog Electronics
-* Troubleshooting
-* Electronic Circuit Analysis
-* Version Control
+* Experience working with large, distributed data sets to derive actional insight
+* Ability to manipulate and analyze complex, high-volume, high-dimensional data from various sources.
+* Advanced skills and experience in Tableau, R, Python, SQL, PySpark, Version Control, and PyTorch framework.
+* Ability to design, build, and maintain business reporting and dashboards, ensuring data integrity and accuracy.
+• Use predictive modeling to increase and optimize customer experiences, revenue generation, data insights, and other
+business outcomes.
+• Data mining and statistical modeling (e.g., regression modeling, clustering techniques, decision trees, etc.).
+• Building predictive and descriptive statistical models advanced Artificial Intelligence (AI) and Machine Learning (ML)
+algorithms.
+• Willing to brainstorm innovative ways to use data to answer business problems.
+• Excellent collaboration skills that promote a positive team environment by modeling continuous learning behavior.
+• Excellent organizational skills, attention to detail, and ability to work independently and as a team member.
+• Interpersonal communication and ability to leverage the data to tell a story.
+• curious and willing to continuously learn about the business.
+* Experience with Version Control (Git) and Utilization of Linux OS (Ubuntu)
 * Artificial intelligence
-* Data Visualization
-* Data analytics
-* Storytelling with Data
-* Programming: Python, Matlab, and C++
-
+* DInstrumentation and Measurement
+• Analog electronics design and troubleshooting
+• Circuit analysis and simulation
+• Hardware testing and verification
   
 Talks
 ======
