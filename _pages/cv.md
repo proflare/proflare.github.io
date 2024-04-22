@@ -82,11 +82,11 @@ algorithms.
 
 • curious and willing to continuously learn about the business.
 
-* Experience with Version Control (Git) and Utilization of Linux OS (Ubuntu).
+• Experience with Version Control (Git) and Utilization of Linux OS (Ubuntu).
   
-* Artificial intelligence.
+• Artificial intelligence.
   
-* DInstrumentation and Measurement.
+• Instrumentation and Measurement.
   
 • Analog electronics design and troubleshooting.
 
