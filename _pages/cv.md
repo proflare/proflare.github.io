@@ -64,7 +64,7 @@ Skills
 
 • Ability to manipulate and analyze complex, high-volume, high-dimensional data from various sources.
 
-• Advanced skills and experience in Tableau, R, Python, SQL, PySpark, Version Control, and PyTorch framework.
+• Advanced skills and experience in Tableau, R, Python, SQL, PySpark, and PyTorch framework.
 
 • Ability to design, build, and maintain business reporting and dashboards, ensuring data integrity and accuracy.
 
