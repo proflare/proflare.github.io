@@ -2,7 +2,7 @@
 main:
   
   - title: "Home"
-    url: /markdown/
+    url: /home/
 
   - title: "Group"
     url: /markdown/
