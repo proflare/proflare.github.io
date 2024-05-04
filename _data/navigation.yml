@@ -4,6 +4,12 @@ main:
   - title: "Home"
     url: /markdown/
 
+  - title: "Group"
+    url: /markdown/
+
+  - title: "Join"
+    url: /markdown/
+
   - title: "Research"
     url: /markdown/
   
@@ -15,14 +21,11 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Gallery"
+    url: /markdown/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Services"
+    url: /markdown/
     
   
