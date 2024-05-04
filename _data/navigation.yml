@@ -1,7 +1,10 @@
 # main links links
 main:
   
-  - title: "Guide"
+  - title: "Home"
+    url: /markdown/
+
+  - title: "Research"
     url: /markdown/
   
   - title: "Publications"
