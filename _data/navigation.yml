@@ -5,13 +5,13 @@ main:
     url: /home/
 
   - title: "Group"
-    url: /markdown/
+    url: /group/
 
   - title: "Join"
-    url: /markdown/
+    url: /join/
 
   - title: "Research"
-    url: /markdown/
+    url: /research/
   
   - title: "Publications"
     url: /publications/  
@@ -20,12 +20,12 @@ main:
     url: /teaching/    
         
   - title: "Gallery"
-    url: /markdown/
+    url: /gallery/
     
   - title: "Services"
-    url: /markdown/
+    url: /services/
 
-  - title: "Contacts Us"
-    url: /markdown/  
+  - title: "Contact Us"
+    url: /contacts/  
     
   
