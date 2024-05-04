@@ -14,10 +14,7 @@ main:
     url: /markdown/
   
   - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
+    url: /publications/  
 
   - title: "Teaching"
     url: /teaching/    
@@ -27,5 +24,8 @@ main:
     
   - title: "Services"
     url: /markdown/
+
+  - title: "Contacts Us"
+    url: /markdown/  
     
   
