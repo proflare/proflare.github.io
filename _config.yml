@@ -21,7 +21,7 @@ repository               : "proflare.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "lare.png"
+  avatar           : "lare.jpg"
   name             : "Full Professor"
   pronouns         : # example: "she/her"  
   bio              : "UNESCO Chair on Renewble Energies"
