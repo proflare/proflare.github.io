@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# About Professor Yendoubé Lare
+# Bio
 
 Professor Yendoubé Lare, Ph.D., is a leading academic in the field of physics with a robust focus on sustainable energy technologies and materials science. With distinguished dual doctorates from the University of Nantes and Université de Lomé, his scholarly pursuit centers on the development and characterization of materials and systems for renewable energy applications, particularly photovoltaics and energy storage systems.
 
