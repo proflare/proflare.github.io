@@ -3,29 +3,56 @@ title: "Contact Us"
 layout: page  # Specifies the layout to use; ensure you have a 'page' layout or change this accordingly
 permalink: /contacts/  # Simplified permalink for easier access
 ---
-
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ways to Connect</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f9;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        .contact-box {
+            background-color: #ffffff;
+            border: 1px solid #dddddd;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            text-align: center;
+            width: 80%;
+            max-width: 400px;
+        }
+        .contact-box h1, .contact-box h2 {
+            color: #333333;
+        }
+        .contact-box a {
+            color: #1e90ff;
+            text-decoration: none;
+        }
+        .contact-box a:hover {
+            text-decoration: underline;
+        }
+    </style>
 </head>
 <body>
-    <h1>Ways to Connect</h1>
-    <p>Feel free to reach out to us!</p>
-    <h2>Email</h2>
-    <p>
-        <a href="mailto:yenlare@yahoo.fr">Email us</a>
-    </p>
-    <h2>Phone</h2>
-    <p>
-        Call us at: <a href="tel:+22890227989">+228-90-22-79-89</a>
-    </p>
+    <div class="contact-box">
+        <h1>Ways to Connect</h1>
+        <p>Feel free to reach out to us!</p>
+        <h2>Email</h2>
+        <p>
+            <a href="mailto:yenlare@yahoo.fr">Email us</a>
+        </p>
+        <h2>Phone</h2>
+        <p>
+            Call us at: <a href="tel:+22890227989">+228-90-22-79-89</a>
+        </p>
+    </div>
 </body>
 </html>
