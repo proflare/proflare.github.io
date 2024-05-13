@@ -26,6 +26,6 @@ main:
     url: /services/
 
   - title: "Contact Us"
-    url: /contacts/  
+    url: /_pages/contacts.html/  
     
   
