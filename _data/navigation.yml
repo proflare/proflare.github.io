@@ -3,15 +3,14 @@ main:
   
   - title: "Home"
     url: /home/
+  - title: "Research"
+    url: /research/
 
   - title: "Group"
     url: /group/
 
   - title: "Join"
     url: /join/
-
-  - title: "Research"
-    url: /research/
   
   - title: "Publications"
     url: /publications/  
