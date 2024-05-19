@@ -111,24 +111,22 @@ title: "A good life is a collection of happy memories."
   </div>
 
   <div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-    <h2>Substation Tour in Atlanta</h2>
-    <p>Atlanta Georgia 2022</p>
+    
     <div style="text-align: center;">
       <img src='/images/13.jpg' alt='Substation tour in Atlanta' width='300' />
       <img src='/images/29.jpg' alt='Substation tour in Atlanta' width='300' />
     </div>
-    <p>This visit happened in spring 2022 while working in the <a href="https://pscal.ece.gatech.edu/">PASCAL</a> lab of Prof. Meliopoulos.</p>
+    <h2>Substation Tour in Spring 2022 with <a href="https://pscal.ece.gatech.edu/">PASCAL</a> lab.</h2>
   </div>
 
   <div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-    <h2>ECE 3741 - Experiments in Analog Electronics</h2>
-    <p>Georgia Tech Atlanta</p>
+    
     <div style="text-align: center;">
       <img src='/images/2.jpg' alt='ECE 3741 - Experiments in Analog Electronics' width='300' />
       <img src='/images/3.jpg' alt='ECE 3741 - Experiments in Analog Electronics' width='300' />
     </div>
-    <p>In the Fall of 2022, these images were captured at the Steve W. Chaddick School of Electrical and Computer Engineering at the Georgia Institute of Technology. They document moments both preceding and during laboratory sessions on distinct occasions. In those solitary frames, I am depicted engrossed in preparing the laboratory environment before the students join for their scheduled sessions. Contrastingly, the frames where I am accompanied by students capture the successful resolution of circuit troubleshooting and the attainment of accurate waveforms.</p>
-    <p>These shared experiences are palpably reflected in the joyful expressions of the students, vividly portrayed in the photographs. The collective atmosphere conveys not only the technical achievements but also the satisfaction and enthusiasm shared by all participants in these educational endeavors.</p>
+    <h2>ECE 3741 - Experiments in Analog Electronics Fall of 2022</h2>
+    <p>Images were captured at the Steve W. Chaddick School of Electrical and Computer Engineering at the Georgia Institute of Technology while serving as a TA.</p>
   </div>
 
   <div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
