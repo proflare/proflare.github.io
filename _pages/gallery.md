@@ -140,13 +140,13 @@ title: "A good life is a collection of happy memories."
   </div>
 
   <div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-    <h2>Integrated Circuit Clean Room Lab</h2>
-    <p>University of South Florida Tampa</p>
+    
     <div style="text-align: center;">
       <img src='/images/12.jpg' alt='Integrated Circuit Clean Room Lab' width='300' />
       <img src='/images/10.jpg' alt='Integrated Circuit Clean Room Lab' width='300' />
     </div>
-    <p>Witness Niyem's expertise in the intricate process of integrated circuit production. The first image showcases him in a state-of-the-art cleanroom, manufacturing transistors—a crucial step in the creation of cutting-edge technology. The second image captures Niyem at a verification and testing station, where he conducts rigorous validation tests on the fabricated transistors, ensuring the highest quality and functionality. Step into the realm of innovation and precision with these glimpses into the fascinating world of integrated circuitry at USF.</p>
+    <h2>Integrated Circuit Clean Room Lab</h2>
+    <p>University of South Florida Tampa</p>
   </div>
 
   <div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
