@@ -1,16 +1,13 @@
 # main links
 main:
   - title: "Research"
-    url: /markdown/
+    url: /research/
 
   - title: "Teaching"
     url: /teaching/
 
   - title: "Data Science"
     url: /datascience/
-
-  - title: "Portfolio"
-    url: /portfolio/
 
   - title: "Gallery"
     url: /gallery/
