@@ -102,11 +102,12 @@ title: "A good life is a collection of happy memories."
 <div style="background-color: #A4925A; padding: 20px;">
 
   <div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-    <h2>Fulbright Enrichment Seminar in Nashville Tennessee 2018</h2>
+    
     <div style="text-align: center;">
       <img src='/images/7.jpg' alt='Fulbright Enrichment Seminar' width='300' />
       <img src='/images/9.jpg' alt='Fulbright Enrichment Seminar' width='400' />
     </div>
+    <h2>Fulbright Enrichment Seminar in Nashville Tennessee 2018</h2>
   </div>
 
   <div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
