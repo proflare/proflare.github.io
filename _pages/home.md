@@ -1,7 +1,7 @@
 ---
 title: "Home"
 collection: pages
-permalink: /pages/home/
+permalink: /home/
 ---
 
 
