@@ -130,13 +130,13 @@ title: "A good life is a collection of happy memories."
   </div>
 
   <div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-    <h2>Wind Tunnel Testing</h2>
-    <p>New Mexico Tech Socorro</p>
+    
     <div style="text-align: center;">
       <img src='/images/23.jpg' alt='Wind Tunnel testing' width='300' />
       <img src='/images/24.jpg' alt='Wind Tunnel testing' width='300' />
     </div>
-    <p>This photograph captures a pivotal element of the Fluid and Thermal Systems Laboratory at the <a href="https://nmt.edu/academics/mtls/index.php">Department of Mechanical Engineering</a> at the New Mexico Institute of Mining and Technology during the fall of 2020. The image shows the wind tunnel, and the data processing station. I served as a teaching assistant in this course, contributing to the experiential learning environment showcased in the scene.</p>
+    <h2>Wind Tunnel Testing at New Mexico Tech, Socorro</h2>
+    <p>Photograph was captured during the Fluid and Thermal Systems Laboratory at the <a href="https://nmt.edu/academics/mtls/index.php">Department of Mechanical Engineering</a> while serving as a TA.</p>
   </div>
 
   <div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
