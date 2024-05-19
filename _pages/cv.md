@@ -10,8 +10,9 @@ redirect_from:
 <div style="background-color: #A4925A; padding: 20px;">
 
   <div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-    <h2>Download CV</h2>
-    <p>Download [here](CV_of_Niyem.pdf).</p>
+    <h2>Vitae</h2>
+    
+    <li><a href="/_pages/CV_of_Niyem.pdf">Download CV</a></li>
   </div>
 
   <div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
