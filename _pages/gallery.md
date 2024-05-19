@@ -145,17 +145,17 @@ title: "A good life is a collection of happy memories."
       <img src='/images/12.jpg' alt='Integrated Circuit Clean Room Lab' width='300' />
       <img src='/images/10.jpg' alt='Integrated Circuit Clean Room Lab' width='300' />
     </div>
-    <h2>Integrated Circuit Clean Room Lab</h2>
-    <p>University of South Florida Tampa</p>
+    <h2>Integrated Circuit Clean Room Lab at USF Tampa</h2>
+   
   </div>
 
   <div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-    <h2>Global Achievement Award Ceremony</h2>
-    <p>University of South Florida Tampa</p>
+    
     <div style="text-align: center;">
       <img src='/images/17.jpg' alt='Global Achievement Award Ceremony' width='300' />
       <img src='/images/16.jpg' alt='Global Achievement Award Ceremony' width='300' />
     </div>
+    <h2>Global Achievement Award Ceremony</h2>
     <p>Niyem receiving the <a href="https://www.usf.edu/world/about/news/2017-global-achievement-awards.aspx">Global achievement award</a> from the 6th President of USF <a href="https://en.wikipedia.org/wiki/Judy_Genshaft">Judy Genshaft</a>.</p>
   </div>
 
