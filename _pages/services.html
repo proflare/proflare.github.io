@@ -4,8 +4,6 @@ layout: page  # Specifies the layout to use; ensure you have a 'page' layout or 
 permalink: /services/  # Simplified permalink for easier access
 ---
 
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -44,19 +42,59 @@ permalink: /services/  # Simplified permalink for easier access
             margin-bottom: 20px;
             color: #666;
         }
+        .language-select {
+            position: absolute;
+            top: 30px;
+            right: 10px;
+            background-color: white;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            z-index: 1000;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
     </style>
 </head>
 <body>
+    <!-- Language selection dropdown -->
+    <div class="language-select">
+        <label for="language-select">Select Language:</label>
+        <select id="language-select">
+            <option value="en">English</option>
+            <option value="fr">Français</option>
+        </select>
+    </div>
+
     <div class="container">
         <div class="box">
-            <h2>Services (English)</h2>
-            <p>Our research and development initiatives, along with our community services, focus on the characterization of materials, components, tools, and systems for harnessing renewable energy. We conduct detailed studies to measure and model the potential of renewable energy resources. Our work includes the characterization and dynamic simulation of solar modules, analysis and modeling of local energy networks, and testing of cooking technologies (stoves). We also provide expert collaboration and support to public institutions such as the Ministry of Mines and Energy, the Directorate-General for Energy, the Togolese Agency for Rural Electrification and Renewable Energies, and the Ministry of Environment and Forest Resources. Additionally, we aid civil society organizations, associations, NGOs, and companies in the renewable energy sector—both domestically and internationally—in training technicians, disseminating renewable energy exploitation techniques, designing and testing equipment, and advancing research and development in renewable energy technologies.</p>
-        </div>
-
-        <div class="box">
-            <h2>Services (French)</h2>
-            <p>Nos travaux de recherche et développement et nos services à la communauté consistent en la caractérisation des matériaux, composants, outils et systèmes pour l'exploitation des énergies renouvelables. À cet égard, nous effectuons des études de mesure et de modélisation du potentiel des ressources d'énergie renouvelable, la caractérisation des modules solaires, la modélisation et la simulation du comportement des modules solaires, la caractérisation et la modélisation des réseaux d'énergie locaux, les tests de technologies de cuisson (foyers de cuisson), la collaboration et le soutien en expertise aux institutions publiques telles que le Ministère des Mines et de l'Énergie, la Direction Générale des Énergies, l'Agence Togolaise d'Électrification Rurale et des Énergies Renouvelables, le Ministère de l'Environnement et des Ressources Forestières. De plus, nous appuyons les organisations de la société civile, les associations, les ONG et autres entreprises du secteur des énergies renouvelables, tant au niveau national qu'international, sur la formation des techniciens, la vulgarisation des techniques d'exploitation des énergies renouvelables, la conception et les tests d'équipements, la recherche et le développement des technologies d'énergies renouvelables.</p>
+            <h2 data-en="Services" data-fr="Services">Services</h2>
+            <p data-en="Our research and development initiatives, along with our community services, focus on the characterization of materials, components, tools, and systems for harnessing renewable energy. We conduct detailed studies to measure and model the potential of renewable energy resources. Our work includes the characterization and dynamic simulation of solar modules, analysis and modeling of local energy networks, and testing of cooking technologies (stoves). We also provide expert collaboration and support to public institutions such as the Ministry of Mines and Energy, the Directorate-General for Energy, the Togolese Agency for Rural Electrification and Renewable Energies, and the Ministry of Environment and Forest Resources. Additionally, we aid civil society organizations, associations, NGOs, and companies in the renewable energy sector—both domestically and internationally—in training technicians, disseminating renewable energy exploitation techniques, designing and testing equipment, and advancing research and development in renewable energy technologies." data-fr="Nos travaux de recherche et développement et nos services à la communauté consistent en la caractérisation des matériaux, composants, outils et systèmes pour l'exploitation des énergies renouvelables. À cet égard, nous effectuons des études de mesure et de modélisation du potentiel des ressources d'énergie renouvelable, la caractérisation des modules solaires, la modélisation et la simulation du comportement des modules solaires, la caractérisation et la modélisation des réseaux d'énergie locaux, les tests de technologies de cuisson (foyers de cuisson), la collaboration et le soutien en expertise aux institutions publiques telles que le Ministère des Mines et de l'Énergie, la Direction Générale des Énergies, l'Agence Togolaise d'Électrification Rurale et des Énergies Renouvelables, le Ministère de l'Environnement et des Ressources Forestières. De plus, nous appuyons les organisations de la société civile, les associations, les ONG et autres entreprises du secteur des énergies renouvelables, tant au niveau national qu'international, sur la formation des techniciens, la vulgarisation des techniques d'exploitation des énergies renouvelables, la conception et les tests d'équipements, la recherche et le développement des technologies d'énergies renouvelables.">Nos travaux de recherche et développement et nos services à la communauté consistent en la caractérisation des matériaux, composants, outils et systèmes pour l'exploitation des énergies renouvelables. À cet égard, nous effectuons des études de mesure et de modélisation du potentiel des ressources d'énergie renouvelable, la caractérisation des modules solaires, la modélisation et la simulation du comportement des modules solaires, la caractérisation et la modélisation des réseaux d'énergie locaux, les tests de technologies de cuisson (foyers de cuisson), la collaboration et le soutien en expertise aux institutions publiques telles que le Ministère des Mines et de l'Énergie, la Direction Générale des Énergies, l'Agence Togolaise d'Électrification Rurale et des Énergies Renouvelables, le Ministère de l'Environnement et des Ressources Forestières. De plus, nous appuyons les organisations de la société civile, les associations, les ONG et autres entreprises du secteur des énergies renouvelables, tant au niveau national qu'international, sur la formation des techniciens, la vulgarisation des techniques d'exploitation des énergies renouvelables, la conception et les tests d'équipements, la recherche et le développement des technologies d'énergies renouvelables.</p>
         </div>
     </div>
+
+    <!-- JavaScript for language selection -->
+    <script>
+        function changeLanguage(lang) {
+            document.querySelectorAll('[data-en]').forEach(function(element) {
+                element.innerText = element.getAttribute('data-' + lang);
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', function() {
+            const languageSelect = document.getElementById('language-select');
+            const currentLang = new URLSearchParams(window.location.search).get('lang') || 'en';
+
+            languageSelect.value = currentLang;
+            changeLanguage(currentLang);
+
+            languageSelect.addEventListener('change', function() {
+                const selectedLang = this.value;
+                changeLanguage(selectedLang);
+                const urlParams = new URLSearchParams(window.location.search);
+                urlParams.set('lang', selectedLang);
+                window.history.replaceState(null, null, "?" + urlParams.toString());
+            });
+        });
+    </script>
 </body>
 </html>
