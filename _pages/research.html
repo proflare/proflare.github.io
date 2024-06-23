@@ -42,12 +42,21 @@ permalink: /research/
             text-align: center;
             margin-bottom: 10px;
         }
+        .language-select {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+        }
     </style>
 </head>
 <body>
-    <!-- Language selection options -->
-    <div style="text-align: right; padding: 10px;">
-        <a href="?lang=en">English</a> | <a href="?lang=fr">Français</a>
+    <!-- Language selection dropdown -->
+    <div class="language-select">
+        <label for="language-select">Select Language:</label>
+        <select id="language-select" onchange="changeLanguage(this.value)">
+            <option value="en">English</option>
+            <option value="fr">Français</option>
+        </select>
     </div>
 
     <div class="container">
@@ -109,41 +118,23 @@ permalink: /research/
 
     <!-- JavaScript for language selection -->
     <script>
-        // Function to get the language parameter from the URL
-        function getLanguage() {
-            const params = new URLSearchParams(window.location.search);
-            return params.get('lang');
+        function changeLanguage(lang) {
+            const urlParams = new URLSearchParams(window.location.search);
+            urlParams.set('lang', lang);
+            window.location.search = urlParams.toString();
         }
 
-        // Function to redirect to the selected language version
-        function redirectToLanguage(language) {
-            const currentUrl = window.location.href;
-            const baseUrl = currentUrl.split('?')[0]; // Remove existing query parameters
-            window.location.href = `${baseUrl}?lang=${language}`;
-        }
-
-        // Check if a language parameter is present in the URL
-        const currentLanguage = getLanguage();
-
-        if (currentLanguage) {
-            // Set the page language based on the URL parameter
-            if (currentLanguage === 'fr') {
-                document.documentElement.lang = 'fr';
-            } else {
-                document.documentElement.lang = 'en';
-            }
-        }
-
-        // Handle language selection clicks
         document.addEventListener('DOMContentLoaded', function() {
-            const languageLinks = document.querySelectorAll('[href="?lang=en"], [href="?lang=fr"]');
+            const languageSelect = document.getElementById('language-select');
+            const currentLang = new URLSearchParams(window.location.search).get('lang');
 
-            languageLinks.forEach(link => {
-                link.addEventListener('click', function(event) {
-                    event.preventDefault();
-                    const language = this.getAttribute('href').includes('en') ? 'en' : 'fr';
-                    redirectToLanguage(language);
-                });
+            if (currentLang) {
+                languageSelect.value = currentLang;
+            }
+
+            languageSelect.addEventListener('change', function() {
+                const selectedLang = this.value;
+                changeLanguage(selectedLang);
             });
         });
     </script>
