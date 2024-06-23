@@ -4,6 +4,8 @@ collection: pages
 permalink: /research/
 ---
 
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -44,29 +46,19 @@ permalink: /research/
         }
         .language-select {
             position: absolute;
-            top: 15px;
-            right: 15px;
-        }
-        .language-buttons {
-            display: flex;
-            justify-content: flex-end;
-            gap: 15px;
-            position: absolute;
-            top: 20px;
-            right: 20px;
-        }
-        .language-buttons button {
-            padding: 10px 10px;
-            font-size: 20px;
-            cursor: pointer;
+            top: 10px;
+            right: 10px;
         }
     </style>
 </head>
 <body>
-    <!-- Language selection buttons -->
-    <div class="language-buttons">
-        <button onclick="changeLanguage('en')">English</button>
-        <button onclick="changeLanguage('fr')">Français</button>
+    <!-- Language selection dropdown -->
+    <div class="language-select">
+        <label for="language-select">Select Language:</label>
+        <select id="language-select">
+            <option value="en">English</option>
+            <option value="fr">Français</option>
+        </select>
     </div>
 
     <div class="container">
@@ -125,17 +117,18 @@ permalink: /research/
         }
 
         document.addEventListener('DOMContentLoaded', function() {
+            const languageSelect = document.getElementById('language-select');
             const currentLang = new URLSearchParams(window.location.search).get('lang') || 'en';
+
+            languageSelect.value = currentLang;
             changeLanguage(currentLang);
 
-            document.querySelectorAll('.language-buttons button').forEach(function(button) {
-                button.addEventListener('click', function() {
-                    const selectedLang = this.getAttribute('onclick').split("'")[1];
-                    changeLanguage(selectedLang);
-                    const urlParams = new URLSearchParams(window.location.search);
-                    urlParams.set('lang', selectedLang);
-                    window.history.replaceState(null, null, "?" + urlParams.toString());
-                });
+            languageSelect.addEventListener('change', function() {
+                const selectedLang = this.value;
+                changeLanguage(selectedLang);
+                const urlParams = new URLSearchParams(window.location.search);
+                urlParams.set('lang', selectedLang);
+                window.history.replaceState(null, null, "?" + urlParams.toString());
             });
         });
     </script>
